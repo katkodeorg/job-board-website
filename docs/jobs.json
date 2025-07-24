@@ -1,5 +1,657 @@
 [
     {
+        "_id": "68825c3e103f5aeda72f6a0a",
+        "company": "Toyota Tsusho Systems",
+        "company_url": "",
+        "title": "Automotive Cybersecurity Test Engineer",
+        "locations": [
+            "Plano, Texas"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/A826681ED3/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373758149
+    },
+    {
+        "_id": "68825c3d103f5aeda72f6a09",
+        "company": "WEX",
+        "company_url": "",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Illinois"
+        ],
+        "apply_links": {
+            "official": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Chicago-IL/Junior-Software-Engineer_R18688",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373757466
+    },
+    {
+        "_id": "68825c3c103f5aeda72f6a08",
+        "company": "Publix",
+        "company_url": "",
+        "title": "Software Engineer \u2013 Jacksonville Central Fill",
+        "locations": [
+            "Lakeland, Florida"
+        ],
+        "apply_links": {
+            "official": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26173&siteid=5197&PageType=JobDetails&jobid=1352716",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373756735
+    },
+    {
+        "_id": "68825c3c103f5aeda72f6a07",
+        "company": "NAVEX",
+        "company_url": "",
+        "title": "Software Engineer, Production Support",
+        "locations": [
+            "Lake Oswego, Oregon"
+        ],
+        "apply_links": {
+            "official": "https://navexglobal.wd5.myworkdayjobs.com/en-US/NAVEX/job/Hybrid-Lake-Oswego-OR/Software-Engineer--Production-Support_R6058",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373756018
+    },
+    {
+        "_id": "68825c3b103f5aeda72f6a06",
+        "company": "Highspot",
+        "company_url": "",
+        "title": "Software Development Engineer",
+        "locations": [
+            "Vancouver, British Columbia"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/highspot/a1945d0f-e062-4bad-8069-9f8f0bc15458",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373755094
+    },
+    {
+        "_id": "68825bae103f5aeda72f6a05",
+        "company": "SAP",
+        "company_url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Full-stack-Software-Developer-Vancouver-Brit-V6B-1A9/1228136601/",
+        "title": "SAP iXp Intern - Full-stack Software Developer [Vancouver]",
+        "locations": [
+            "Vancouver, British Columbia"
+        ],
+        "apply_links": {
+            "official": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Full-stack-Software-Developer-Vancouver-Brit-V6B-1A9/1228136601/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373614687
+    },
+    {
+        "_id": "68825bac103f5aeda72f6a04",
+        "company": "Stride, Inc.",
+        "company_url": "",
+        "title": "K12 Zone Content & Event Intern, Part-Time",
+        "locations": [
+            "Virginia"
+        ],
+        "apply_links": {
+            "official": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Content---Event-Intern--Part-Time_JR109508",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373612968
+    },
+    {
+        "_id": "68825bac103f5aeda72f6a03",
+        "company": "HNTB",
+        "company_url": "",
+        "title": "Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "apply_links": {
+            "official": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Atlanta-GA/Returning-Software-Engineer-I---Summer-2026--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-26709-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373612255
+    },
+    {
+        "_id": "68825bab103f5aeda72f6a02",
+        "company": "Al Warren Oil Company",
+        "company_url": "",
+        "title": "Software Developer - Fall Internship 2025",
+        "locations": [
+            "Bensenville, Illinois"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/AC71922A6F/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373611539
+    },
+    {
+        "_id": "68825baa103f5aeda72f6a01",
+        "company": "SAP",
+        "company_url": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-App-Foundation-AI-Engineer-CA-94304/1226469801/",
+        "title": "SAP iXp Intern- App Foundation AI Engineer",
+        "locations": [
+            "Palo Alto, California"
+        ],
+        "apply_links": {
+            "official": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-App-Foundation-AI-Engineer-CA-94304/1226469801/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753373610791
+    },
+    {
+        "_id": "68824e03103f5aeda72f6a00",
+        "company": "Spotify",
+        "company_url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813?utm_source=cvrve",
+        "title": "Associate Machine Learning Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813?utm_source=cvrve"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753370115568
+    },
+    {
+        "_id": "68824e02103f5aeda72f69ff",
+        "company": "Tesla",
+        "company_url": "https://www.tesla.com/careers/search/job/246315?utm_source=cvrve",
+        "title": "Applications Engineer, Megapack",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "apply_links": {
+            "official": "https://www.tesla.com/careers/search/job/246315?utm_source=cvrve"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753370114883
+    },
+    {
+        "_id": "68824e02103f5aeda72f69fe",
+        "company": "Tesla",
+        "company_url": "https://www.tesla.com/careers/search/job/246089?utm_source=cvrve",
+        "title": "Software Engineer, Optimus Inference Co Design",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "apply_links": {
+            "official": "https://www.tesla.com/careers/search/job/246089?utm_source=cvrve"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753370114071
+    },
+    {
+        "_id": "68824e00103f5aeda72f69fd",
+        "company": "Tesla",
+        "company_url": "https://www.tesla.com/careers/search/job/246198?utm_source=cvrve",
+        "title": "Camera Software Engineer, AI Platforms",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "apply_links": {
+            "official": "https://www.tesla.com/careers/search/job/246198?utm_source=cvrve"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753370112116
+    },
+    {
+        "_id": "68824dff103f5aeda72f69fc",
+        "company": "Tesla",
+        "company_url": "https://www.tesla.com/careers/search/job/246199?utm_source=cvrve",
+        "title": "Software Integration Engineer, AI Platforms",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "apply_links": {
+            "official": "https://www.tesla.com/careers/search/job/246199?utm_source=cvrve"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753370111370
+    },
+    {
+        "_id": "68824adc103f5aeda72f69fb",
+        "company": "Benchling",
+        "company_url": "",
+        "title": "Software Engineer, Full Stack (Lab Auto)",
+        "locations": [
+            "Boston, MA"
+        ],
+        "apply_links": {
+            "official": "https://boards.greenhouse.io/embed/job_app?token=7083333&utm_source=cvrve&ref=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1753369308736
+    },
+    {
+        "_id": "68824a5d103f5aeda72f69fa",
+        "company": "Lynk",
+        "company_url": "",
+        "title": "Telecommunications Intern",
+        "locations": [
+            "Washington DC"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7?utm_source=ouckah"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753369181377
+    },
+    {
+        "_id": "68822e65103f5aeda72f69f9",
+        "company": "Virtu Financial",
+        "company_url": "https://www.virtu.com",
+        "title": "Internship - Quantitative Trading",
+        "locations": [
+            "Austin",
+            "Chicago",
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753362021958
+    },
+    {
+        "_id": "68822e65103f5aeda72f69f8",
+        "company": "Blockhouse",
+        "company_url": "https://blockhouse.app/",
+        "title": "Quantitative Research Internship",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753362021234
+    },
+    {
+        "_id": "68813c0364c6fc38c9e29d73",
+        "company": "Castleton Commodities International",
+        "company_url": "",
+        "title": "GenAI Intern",
+        "locations": [
+            "Houston, TX"
+        ],
+        "apply_links": {
+            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753299971320
+    },
+    {
+        "_id": "688138d564c6fc38c9e29d72",
+        "company": "Castleton Commodities International",
+        "company_url": "",
+        "title": "Data Science ML Intern",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "apply_links": {
+            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753299157385
+    },
+    {
+        "_id": "68810c1164c6fc38c9e29d71",
+        "company": "Travelers",
+        "company_url": "",
+        "title": "Software Engineer I (Java, AWS, JSF)",
+        "locations": [
+            "Saint Paul, Minnesota"
+        ],
+        "apply_links": {
+            "official": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287697642
+    },
+    {
+        "_id": "68810c1064c6fc38c9e29d70",
+        "company": "Travelers",
+        "company_url": "",
+        "title": "Gen AI Data Engineer I",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "apply_links": {
+            "official": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287696940
+    },
+    {
+        "_id": "68810c1064c6fc38c9e29d6f",
+        "company": "Bank of America",
+        "company_url": "",
+        "title": "US Rates Research Analyst - Global Research",
+        "locations": [
+            "New York City, New York"
+        ],
+        "apply_links": {
+            "official": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/US-Rates-Research-Analyst---Global-Research_25018001-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287696231
+    },
+    {
+        "_id": "68810c0f64c6fc38c9e29d6e",
+        "company": "Radiance Technologies",
+        "company_url": "",
+        "title": "Junior Modeling & Simulation Engineer",
+        "locations": [
+            "Dayton, Ohio"
+        ],
+        "apply_links": {
+            "official": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Beavercreek-OH/Junior-Modeling---Simulation-Engineer_HR101679",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287695435
+    },
+    {
+        "_id": "68810c0e64c6fc38c9e29d6d",
+        "company": "US Conec Ltd.",
+        "company_url": "",
+        "title": "Engineering Data Analyst",
+        "locations": [
+            "Hickory, North Carolina"
+        ],
+        "apply_links": {
+            "official": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3280169",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287694643
+    },
+    {
+        "_id": "68810b8264c6fc38c9e29d6c",
+        "company": "Wells Fargo",
+        "company_url": "https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company",
+        "title": "Technology Summer Internship - Early Careers - Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Irving, TX",
+            "Charlotte, NC"
+        ],
+        "apply_links": {
+            "official": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/ffe51158-461e-4569-ba8e-006aa3653f36?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287554540
+    },
+    {
+        "_id": "68810a5e6d81ce0813cce6eb",
+        "company": "Veolia",
+        "company_url": "",
+        "title": "Bilingual (ENG/FR) Digital Adoption Intern",
+        "locations": [
+            "Oakville, Ontario"
+        ],
+        "apply_links": {
+            "official": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000072057496-bilingual-eng-fr-digital-adoption-intern",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287262686
+    },
+    {
+        "_id": "68810a5d6d81ce0813cce6ea",
+        "company": "Scientech Research LLC",
+        "company_url": "",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "New Jersey"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287261942
+    },
+    {
+        "_id": "68810a5d6d81ce0813cce6e9",
+        "company": "Bombardier",
+        "company_url": "",
+        "title": "Intern, Business Analyst, Salesforce Product Owner (Fall, 2025)",
+        "locations": [
+            "Qu\u00e9bec, Quebec"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Business-Analyst%2C-Salesforce-Product-Owner-%28Fall%2C-2025%29-Qu%C3%A9b-H4S-1Y9/1227702001/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287261176
+    },
+    {
+        "_id": "68810a5c6d81ce0813cce6e8",
+        "company": "Wells Fargo",
+        "company_url": "https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company",
+        "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
+        "locations": [
+            "Charlotte, North Carolina"
+        ],
+        "apply_links": {
+            "official": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753287260262
+    },
+    {
+        "_id": "688107716d81ce0813cce6e7",
+        "company": "Castleton Commodities International",
+        "company_url": "",
+        "title": "Data Engineering Intern",
+        "locations": [
+            "Stamford, CT",
+            "Houston, TX"
+        ],
+        "apply_links": {
+            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2026-_R1105?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753286513944
+    },
+    {
+        "_id": "6881019f6d81ce0813cce6e6",
+        "company": "Google DeepMind",
+        "company_url": "",
+        "title": "Software Engineer, Full Stack - Gemini",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/deepmind/jobs/7086851?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1753285023808
+    },
+    {
+        "_id": "6881019f6d81ce0813cce6e5",
+        "company": "Microsoft",
+        "company_url": "",
+        "title": "Software Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "apply_links": {
+            "official": "https://jobs.careers.microsoft.com/us/en/job/1844322/Software-Engineer?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1753285023152
+    },
+    {
+        "_id": "6881019e6d81ce0813cce6e4",
+        "company": "Microsoft",
+        "company_url": "",
+        "title": "Site Reliability Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.careers.microsoft.com/global/en/job/1844417/Site-Reliability-Engineer---CTJ---Top-Secret?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1753285022497
+    },
+    {
+        "_id": "6881019d6d81ce0813cce6e3",
+        "company": "Qualcomm Technologies, Inc.",
+        "company_url": "",
+        "title": "GPU Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "apply_links": {
+            "official": "https://careers.qualcomm.com/careers/job/446706913920?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1753285021844
+    },
+    {
+        "_id": "6881019d6d81ce0813cce6e2",
+        "company": "xAI",
+        "company_url": "",
+        "title": "AI Researcher & Engineer - Multimodal (Real-time Video)",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/xai/jobs/4786668007?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1753285021150
+    },
+    {
+        "_id": "688101216d81ce0813cce6e1",
+        "company": "M&T Bank",
+        "company_url": "",
+        "title": "2026 Technology Internship Program",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "apply_links": {
+            "official": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?jobFamily=8cc34509fd6910020c408e4228020000&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753284897602
+    },
+    {
+        "_id": "688101206d81ce0813cce6e0",
+        "company": "M&T Bank",
+        "company_url": "",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "apply_links": {
+            "official": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753284896900
+    },
+    {
+        "_id": "688101206d81ce0813cce6df",
+        "company": "Squarepoint",
+        "company_url": "",
+        "title": "Quant Researcher Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753284896132
+    },
+    {
+        "_id": "6881011f6d81ce0813cce6de",
+        "company": "Tenstorrent",
+        "company_url": "",
+        "title": "Software Intern - AI Compilers",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Toronto, ON"
+        ],
+        "apply_links": {
+            "official": "https://boards.greenhouse.io/embed/job_app?token=4501189007&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753284895334
+    },
+    {
+        "_id": "6881011e6d81ce0813cce6dd",
+        "company": "The Trade Desk",
+        "company_url": "",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Boulder, CO",
+            "Denver, CO",
+            "Irvine, CA",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753284894681
+    },
+    {
+        "_id": "6880ddc1325b7937b2487278",
+        "company": "Hitachi",
+        "company_url": "https://www.hitachi.com",
+        "title": "Research Internship - AI Agents for Industrial Applications",
+        "locations": [
+            "Santa Clara, California, United States"
+        ],
+        "apply_links": {
+            "official": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753275841040
+    },
+    {
         "_id": "688089a1325b7937b2487277",
         "company": "Chewy",
         "company_url": "https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company",
@@ -107,523 +759,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753203731127
-    },
-    {
-        "_id": "687fbe45b41ef1d06d970f67",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202245140
-    },
-    {
-        "_id": "687fbe44b41ef1d06d970f66",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202244355
-    },
-    {
-        "_id": "687fbdb8b41ef1d06d970f65",
-        "company": "Hewlett Packard Enterprise",
-        "company_url": "",
-        "title": "Cloud Scale Test Engineer I",
-        "locations": [
-            "San Jose, California"
-        ],
-        "apply_links": {
-            "official": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Scale-Test-Engineer-l_1191231-3",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202104958
-    },
-    {
-        "_id": "687fbdb8b41ef1d06d970f64",
-        "company": "Johns Hopkins University",
-        "company_url": "",
-        "title": "Assistant Research Scientist (PREP0003677)",
-        "locations": [
-            "Gaithersburg, Maryland"
-        ],
-        "apply_links": {
-            "official": "https://apply.interfolio.com/170757",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202104161
-    },
-    {
-        "_id": "687fbdb7b41ef1d06d970f63",
-        "company": "Grand Rising LLC",
-        "company_url": "",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Hanover, Maryland"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/D0043D281B/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202103232
-    },
-    {
-        "_id": "687fbdb6b41ef1d06d970f62",
-        "company": "EVgo",
-        "company_url": "",
-        "title": "Software Development Engineer I",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://jobs.jobvite.com/evgo/job/oD8wwfwx",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202102474
-    },
-    {
-        "_id": "687fbd2ab41ef1d06d970f61",
-        "company": "Five Rings",
-        "company_url": "",
-        "title": "Summer Intern 2026 - Quantitative Research Analyst",
-        "locations": [
-            "New York City, New York"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201962472
-    },
-    {
-        "_id": "687fbd29b41ef1d06d970f60",
-        "company": "Medicom",
-        "company_url": "",
-        "title": "Research Data Analyst, Internship",
-        "locations": [
-            "Raleigh, North Carolina"
-        ],
-        "apply_links": {
-            "official": "https://ats.rippling.com/medicom-careers/jobs/45596438-8c06-46bf-ad03-22b335e6de1b",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201961775
-    },
-    {
-        "_id": "687fbd29b41ef1d06d970f5f",
-        "company": "Castleton Commodities International",
-        "company_url": "",
-        "title": "Front Office Software Engineer Internship (Summer 2026)",
-        "locations": [
-            "Stamford, Connecticut"
-        ],
-        "apply_links": {
-            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201961060
-    },
-    {
-        "_id": "687fbd28b41ef1d06d970f5e",
-        "company": "Fidelity Investments",
-        "company_url": "",
-        "title": "2026 Leap Technology Program - Intern Conversion Application - SWE",
-        "locations": [
-            "Westlake, Ohio"
-        ],
-        "apply_links": {
-            "official": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---SWE_2114310",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201960062
-    },
-    {
-        "_id": "687f949fef47e678426ab447",
-        "company": "Qualtrics",
-        "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I - Foundation",
-        "locations": [
-            "Provo, UT"
-        ],
-        "apply_links": {
-            "official": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"
-        },
-        "posted_days_ago": 3,
-        "timestamp": 1753191583444
-    },
-    {
-        "_id": "687f949eef47e678426ab446",
-        "company": "Coalition",
-        "company_url": "https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/b8410e88-84d1-4aea-9b97-aea36b0a5fdd?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753191582622
-    },
-    {
-        "_id": "687f949def47e678426ab445",
-        "company": "Coalition",
-        "company_url": "https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/b70c7334-2f4e-43c5-b676-e430713cbd61?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753191581700
-    },
-    {
-        "_id": "687f9234c8d6748106e1dbab",
-        "company": "Morgan Stanley",
-        "company_url": "https://www.morganstanley.com/",
-        "title": "MSIM- Portfolio Solutions- Quant Generalist- Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/MSIM--Portfolio-Solutions--Quant-Generalist--Intern_JR017183",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753190964715
-    },
-    {
-        "_id": "687f9233c8d6748106e1dbaa",
-        "company": "ExodusPoint Capital Management, LP",
-        "company_url": "https://www.exoduspoint.com",
-        "title": "Artificial Intelligence Intern - New York - January 2026",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/exoduspoint/jobs/8070584002",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753190963848
-    },
-    {
-        "_id": "687f91b9c8d6748106e1dba9",
-        "company": "General Dynamics Mission Systems",
-        "company_url": "",
-        "title": "Software Engineer \u2013 Entry Level",
-        "locations": [
-            "Scottsdale, Arizona"
-        ],
-        "apply_links": {
-            "official": "https://careers-gdms.icims.com/jobs/67114/software-engineer-%e2%80%93-entry-level/job?in_iframe=1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753190841602
-    },
-    {
-        "_id": "687f91b8c8d6748106e1dba8",
-        "company": "New York University",
-        "company_url": "",
-        "title": "Data Analyst",
-        "locations": [
-            "New York City, New York"
-        ],
-        "apply_links": {
-            "official": "https://uscareers-nyu.icims.com/jobs/14836/data-analyst/job?in_iframe=1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753190840581
-    },
-    {
-        "_id": "687f91b7c8d6748106e1dba7",
-        "company": "Oshkosh Corporation",
-        "company_url": "",
-        "title": "Engineer - Software",
-        "locations": [
-            "Greencastle, Indiana"
-        ],
-        "apply_links": {
-            "official": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-PA-Greencastle-15276-Molly-Pitcher-Hwy/Engineer---Software_R36890-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753190839633
-    },
-    {
-        "_id": "687f91b6c8d6748106e1dba6",
-        "company": "Boeing",
-        "company_url": "",
-        "title": "Software Engineer - Developer (Associate or Experienced)",
-        "locations": [
-            "Berkeley, Missouri"
-        ],
-        "apply_links": {
-            "official": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Berkeley-MO/Software-Engineer---Developer--Associate-or-Experienced-_JR2025446872-2",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753190838524
-    },
-    {
-        "_id": "687f8bfeca9320f2a7a6809c",
-        "company": "SAP",
-        "company_url": "",
-        "title": "SAP iXp Intern- ARIBA AI Engineer",
-        "locations": [
-            "Palo Alto, California"
-        ],
-        "apply_links": {
-            "official": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-ARIBA-AI-Engineer-CA-94304/1226469801/",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753189374140
-    },
-    {
-        "_id": "687f8bfdca9320f2a7a6809b",
-        "company": "SAP",
-        "company_url": "",
-        "title": "SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence",
-        "locations": [
-            "Newport Beach, California"
-        ],
-        "apply_links": {
-            "official": "https://jobs.sap.com/job/Newport-Beach-SAP-iXp-Intern-Data-Scientist%2C-Customer-and-Competitive-Market-Intelligence-CA-92660/1226597501/",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753189373446
-    },
-    {
-        "_id": "687f8bfcca9320f2a7a6809a",
-        "company": "Amazon.com",
-        "company_url": "",
-        "title": "Applied Scientist - GenAI, International Seller Growth",
-        "locations": [
-            "Seattle, Washington"
-        ],
-        "apply_links": {
-            "official": "https://www.amazon.jobs/en/jobs/3038290/applied-scientist-genai-international-seller-growth",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753189372602
-    },
-    {
-        "_id": "687f8bfbca9320f2a7a68099",
-        "company": "iA Financial Group",
-        "company_url": "",
-        "title": "Intern - Security Analyst",
-        "locations": [
-            "Qu\u00e9bec, Quebec"
-        ],
-        "apply_links": {
-            "official": "https://ia.wd3.myworkdayjobs.com/en-US/Professional/job/Qubec-Qubec/Intern---Security-Analyst_JR10023782-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753189371833
-    },
-    {
-        "_id": "687f8b297e0181afbbe816ee",
-        "company": "iA Financial Group",
-        "company_url": "",
-        "title": "Intern - Security Analyst",
-        "locations": [
-            "Qu\u00e9bec, Quebec"
-        ],
-        "apply_links": {
-            "official": "https://ia.wd3.myworkdayjobs.com/en-US/Professional/job/Qubec-Qubec/Intern---Security-Analyst_JR10023782-2",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753189161223
-    },
-    {
-        "_id": "687f73df2925c98afb7610c4",
-        "company": "Akuna Capital",
-        "company_url": "https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer Intern - Full Stack Web",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "apply_links": {
-            "official": "https://www.akunacapital.com/job-details?gh_jid=7060087&utm_source=GHList&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/9bf45871-ab21-4adf-ad7e-fc57ca65fd8d?utm_source=GHList"
-        },
-        "posted_days_ago": 7,
-        "timestamp": 1753183199507
-    },
-    {
-        "_id": "687f73df2925c98afb7610c3",
-        "company": "Akuna Capital",
-        "company_url": "https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company",
-        "title": "Quantitative Development & Strategy Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "apply_links": {
-            "official": "https://www.akunacapital.com/job-details?gh_jid=7065132&utm_source=GHList&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/0f902ab7-852b-4624-9759-d50392926fc8?utm_source=GHList"
-        },
-        "posted_days_ago": 7,
-        "timestamp": 1753183199257
-    },
-    {
-        "_id": "687f73df2925c98afb7610c2",
-        "company": "Akuna Capital",
-        "company_url": "https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer Intern - Python",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "apply_links": {
-            "official": "https://www.akunacapital.com/job-details?gh_jid=7055471&utm_source=GHList&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/533c5cbc-2c31-4f95-b3ee-c79ed5b904ce?utm_source=GHList"
-        },
-        "posted_days_ago": 7,
-        "timestamp": 1753183199005
-    },
-    {
-        "_id": "687f73de2925c98afb7610c1",
-        "company": "Akuna Capital",
-        "company_url": "https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer Intern - C++",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "apply_links": {
-            "official": "https://www.akunacapital.com/job-details?gh_jid=6996427&utm_source=GHList&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/9f4cdfd7-56ef-48ca-9ae9-100399041c1e?utm_source=GHList"
-        },
-        "posted_days_ago": 7,
-        "timestamp": 1753183198757
-    },
-    {
-        "_id": "687f73de2925c98afb7610c0",
-        "company": "BILL",
-        "company_url": "https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Draper, UT",
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.bill.com/job?gh_jid=5588094004&utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 5,
-        "timestamp": 1753183198509
-    },
-    {
-        "_id": "687f73de2925c98afb7610bf",
-        "company": "Five Rings",
-        "company_url": "",
-        "title": "Software Developer",
-        "locations": [
-            "New York"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 5,
-        "timestamp": 1753183198260
-    },
-    {
-        "_id": "687f73de2925c98afb7610be",
-        "company": "Susquehanna",
-        "company_url": "",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "apply_links": {
-            "official": "https://careers.sig.com/job/SUSQA004Y9571?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 5,
-        "timestamp": 1753183198012
-    },
-    {
-        "_id": "687f73dd2925c98afb7610bd",
-        "company": "CTC",
-        "company_url": "",
-        "title": "Software Engineer",
-        "locations": [
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 5,
-        "timestamp": 1753183197761
-    },
-    {
-        "_id": "687f73dd2925c98afb7610bc",
-        "company": "Wells Fargo",
-        "company_url": "https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company",
-        "title": "2025 Emerging Talent Apprentice - Lgcc",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2025-Emerging-Talent-Apprentice---LGCC_R-475686-1?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/556191e3-8d71-4017-b725-d0fa4bc80939?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753183197512
-    },
-    {
-        "_id": "687f73db2925c98afb7610bb",
-        "company": "Wells Fargo",
-        "company_url": "https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company",
-        "title": "Technology Summer Internship - Early Careers - Software Engineer",
-        "locations": [
-            "Iselin, NJ",
-            "Woodbridge Township, NJ",
-            "Charlotte, NC",
-            "St. Louis, MO",
-            "Phoenix, AZ",
-            "Chandler, AZ",
-            "Irving, TX"
-        ],
-        "apply_links": {
-            "official": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/ffe51158-461e-4569-ba8e-006aa3653f36?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753183195748
     }
 ]
