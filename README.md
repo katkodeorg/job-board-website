@@ -23,4 +23,4 @@ KatKode Jobs is a simple job board that aggregates tech job postings from GitHub
 
 ## Contact
 
-For support or suggestions, email: contact@arnavdewan.dev
+For support or suggestions, email: contact@katkode.com
