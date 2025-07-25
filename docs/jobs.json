@@ -1,5 +1,35 @@
 [
     {
+        "_id": "6883c4063272fb4b245f0977",
+        "company": "Qualtrics",
+        "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I - Foundation",
+        "locations": [
+            "Provo, UT"
+        ],
+        "apply_links": {
+            "official": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"
+        },
+        "posted_days_ago": 6,
+        "timestamp": 1753465862022
+    },
+    {
+        "_id": "6883c4053272fb4b245f0976",
+        "company": "mthree",
+        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1753465861049
+    },
+    {
         "_id": "68831e73b4c6aa817875d362",
         "company": "Coalition",
         "company_url": "",
@@ -728,36 +758,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753284894681
-    },
-    {
-        "_id": "6880ddc1325b7937b2487278",
-        "company": "Hitachi",
-        "company_url": "https://www.hitachi.com",
-        "title": "Research Internship - AI Agents for Industrial Applications",
-        "locations": [
-            "Santa Clara, California, United States"
-        ],
-        "apply_links": {
-            "official": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753275841040
-    },
-    {
-        "_id": "688089a1325b7937b2487277",
-        "company": "Chewy",
-        "company_url": "https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Seattle, WA",
-            "Bellevue, WA"
-        ],
-        "apply_links": {
-            "official": "https://boards.greenhouse.io/embed/job_app?token=7075000&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/e3160033-b187-489b-9a2c-6ad90c7eb959?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753254305962
     }
 ]
