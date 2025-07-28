@@ -1,5 +1,65 @@
 [
     {
+        "_id": "68869c0b399af300bc04cca0",
+        "company": "Amentum",
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "apply_links": {
+            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142816?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/c1ce3e50-5855-4076-96b9-510aa65f7a03?utm_source=GHList"
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1753652235463
+    },
+    {
+        "_id": "68869c0a399af300bc04cc9f",
+        "company": "Amentum",
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "apply_links": {
+            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142814?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b12a8329-3617-4c19-8314-a864143ec31a?utm_source=GHList"
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1753652234439
+    },
+    {
+        "_id": "68869c09399af300bc04cc9e",
+        "company": "Amentum",
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "apply_links": {
+            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142817?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/91e3c508-4b87-475d-9cb1-3688326bb405?utm_source=GHList"
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1753652233443
+    },
+    {
+        "_id": "68869c07399af300bc04cc9d",
+        "company": "Maybern",
+        "company_url": "https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "NYC"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/1dbd172a-5bd7-46cc-bdeb-651eb76a9d90?utm_source=GHList"
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753652231762
+    },
+    {
         "_id": "6883c4063272fb4b245f0977",
         "company": "Qualtrics",
         "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
@@ -758,5 +818,324 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753284894681
+    },
+    {
+        "_id": "6880ddc1325b7937b2487278",
+        "company": "Hitachi",
+        "company_url": "https://www.hitachi.com",
+        "title": "Research Internship - AI Agents for Industrial Applications",
+        "locations": [
+            "Santa Clara, California, United States"
+        ],
+        "apply_links": {
+            "official": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753275841040
+    },
+    {
+        "_id": "688089a1325b7937b2487277",
+        "company": "Chewy",
+        "company_url": "https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "apply_links": {
+            "official": "https://boards.greenhouse.io/embed/job_app?token=7075000&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/e3160033-b187-489b-9a2c-6ad90c7eb959?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753254305962
+    },
+    {
+        "_id": "688089a0325b7937b2487276",
+        "company": "mthree",
+        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753254304698
+    },
+    {
+        "_id": "687fc60fcf97daf6510357a7",
+        "company": "mthree",
+        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Salt Lake City, UT",
+            "Houston, TX",
+            "Dallas, TX",
+            "NYC"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4406180006?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/0032aa81-0d90-454a-a690-bd48849678fe?utm_source=GHList"
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1753204239957
+    },
+    {
+        "_id": "687fc58dcf97daf6510357a6",
+        "company": "Reality Defender",
+        "company_url": "https://realitydefender.com/",
+        "title": "Computer Vision Intern",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753204109150
+    },
+    {
+        "_id": "687fc50ecf97daf6510357a5",
+        "company": "U.S. Bank",
+        "company_url": "",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Brookfield, Wisconsin"
+        ],
+        "apply_links": {
+            "official": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1_2025-0016515-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753203982284
+    },
+    {
+        "_id": "687fc50dcf97daf6510357a4",
+        "company": "Hewlett Packard Enterprise",
+        "company_url": "",
+        "title": "Cloud Scale Test Engineer l",
+        "locations": [
+            "San Jose, California"
+        ],
+        "apply_links": {
+            "official": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Scale-Test-Engineer-l_1191231-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753203981611
+    },
+    {
+        "_id": "687fc413cf97daf6510357a3",
+        "company": "ConnectPrep",
+        "company_url": "",
+        "title": "Data Analyst Internship",
+        "locations": [
+            "Westport, Connecticut"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/051EDA1630/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753203731127
+    },
+    {
+        "_id": "687fbe45b41ef1d06d970f67",
+        "company": "Coalition",
+        "company_url": "",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "apply_links": {
+            "official": "https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753202245140
+    },
+    {
+        "_id": "687fbe44b41ef1d06d970f66",
+        "company": "Coalition",
+        "company_url": "",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "apply_links": {
+            "official": "https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753202244355
+    },
+    {
+        "_id": "687fbdb8b41ef1d06d970f65",
+        "company": "Hewlett Packard Enterprise",
+        "company_url": "",
+        "title": "Cloud Scale Test Engineer I",
+        "locations": [
+            "San Jose, California"
+        ],
+        "apply_links": {
+            "official": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Scale-Test-Engineer-l_1191231-3",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753202104958
+    },
+    {
+        "_id": "687fbdb8b41ef1d06d970f64",
+        "company": "Johns Hopkins University",
+        "company_url": "",
+        "title": "Assistant Research Scientist (PREP0003677)",
+        "locations": [
+            "Gaithersburg, Maryland"
+        ],
+        "apply_links": {
+            "official": "https://apply.interfolio.com/170757",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753202104161
+    },
+    {
+        "_id": "687fbdb7b41ef1d06d970f63",
+        "company": "Grand Rising LLC",
+        "company_url": "",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Hanover, Maryland"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/D0043D281B/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753202103232
+    },
+    {
+        "_id": "687fbdb6b41ef1d06d970f62",
+        "company": "EVgo",
+        "company_url": "",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://jobs.jobvite.com/evgo/job/oD8wwfwx",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753202102474
+    },
+    {
+        "_id": "687fbd2ab41ef1d06d970f61",
+        "company": "Five Rings",
+        "company_url": "",
+        "title": "Summer Intern 2026 - Quantitative Research Analyst",
+        "locations": [
+            "New York City, New York"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753201962472
+    },
+    {
+        "_id": "687fbd29b41ef1d06d970f60",
+        "company": "Medicom",
+        "company_url": "",
+        "title": "Research Data Analyst, Internship",
+        "locations": [
+            "Raleigh, North Carolina"
+        ],
+        "apply_links": {
+            "official": "https://ats.rippling.com/medicom-careers/jobs/45596438-8c06-46bf-ad03-22b335e6de1b",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753201961775
+    },
+    {
+        "_id": "687fbd29b41ef1d06d970f5f",
+        "company": "Castleton Commodities International",
+        "company_url": "",
+        "title": "Front Office Software Engineer Internship (Summer 2026)",
+        "locations": [
+            "Stamford, Connecticut"
+        ],
+        "apply_links": {
+            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753201961060
+    },
+    {
+        "_id": "687fbd28b41ef1d06d970f5e",
+        "company": "Fidelity Investments",
+        "company_url": "",
+        "title": "2026 Leap Technology Program - Intern Conversion Application - SWE",
+        "locations": [
+            "Westlake, Ohio"
+        ],
+        "apply_links": {
+            "official": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---SWE_2114310",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753201960062
+    },
+    {
+        "_id": "687f949fef47e678426ab447",
+        "company": "Qualtrics",
+        "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I - Foundation",
+        "locations": [
+            "Provo, UT"
+        ],
+        "apply_links": {
+            "official": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1753191583444
+    },
+    {
+        "_id": "687f949eef47e678426ab446",
+        "company": "Coalition",
+        "company_url": "https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "apply_links": {
+            "official": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b8410e88-84d1-4aea-9b97-aea36b0a5fdd?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753191582622
+    },
+    {
+        "_id": "687f949def47e678426ab445",
+        "company": "Coalition",
+        "company_url": "https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "apply_links": {
+            "official": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b70c7334-2f4e-43c5-b676-e430713cbd61?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753191581700
     }
 ]
