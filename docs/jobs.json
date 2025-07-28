@@ -1,5 +1,80 @@
 [
     {
+        "_id": "6887a1a12d248ded74d7ac73",
+        "company": "Meta",
+        "company_url": "",
+        "title": "Research Scientist Intern, Holography & Material (PhD)",
+        "locations": [
+            "Redmond, Washington"
+        ],
+        "apply_links": {
+            "official": "https://www.metacareers.com/jobs/1389365005469852/",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753719201159
+    },
+    {
+        "_id": "6887a1a02d248ded74d7ac72",
+        "company": "CadMakers",
+        "company_url": "",
+        "title": "Junior Software Developer Intern (Co-op)",
+        "locations": [
+            "Burnaby, British Columbia"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/1549011D69/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753719200462
+    },
+    {
+        "_id": "6887a19f2d248ded74d7ac71",
+        "company": "Plymouth Rock Assurance",
+        "company_url": "",
+        "title": "Product Analyst Intern",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "apply_links": {
+            "official": "https://myjobs.adp.com/plymouthrock/cx/job-details?reqId=5001138686300",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753719199793
+    },
+    {
+        "_id": "6887a19e2d248ded74d7ac70",
+        "company": "Accenture",
+        "company_url": "",
+        "title": "Center for Advanced AI - Applied Research Scientist - Fall Graduate Intern - NAELFY26",
+        "locations": [
+            "Mountain View, California"
+        ],
+        "apply_links": {
+            "official": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753719198692
+    },
+    {
+        "_id": "6887a19d2d248ded74d7ac6f",
+        "company": "Skillsoft",
+        "company_url": "",
+        "title": "Summer Intern - AI Product Manager",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://www.skillsoft.com/about/job/apply?id=4589662005&gh_jid=4589662005",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753719197694
+    },
+    {
         "_id": "68869c0b399af300bc04cca0",
         "company": "Amentum",
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
@@ -1062,80 +1137,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753201961775
-    },
-    {
-        "_id": "687fbd29b41ef1d06d970f5f",
-        "company": "Castleton Commodities International",
-        "company_url": "",
-        "title": "Front Office Software Engineer Internship (Summer 2026)",
-        "locations": [
-            "Stamford, Connecticut"
-        ],
-        "apply_links": {
-            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201961060
-    },
-    {
-        "_id": "687fbd28b41ef1d06d970f5e",
-        "company": "Fidelity Investments",
-        "company_url": "",
-        "title": "2026 Leap Technology Program - Intern Conversion Application - SWE",
-        "locations": [
-            "Westlake, Ohio"
-        ],
-        "apply_links": {
-            "official": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---SWE_2114310",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201960062
-    },
-    {
-        "_id": "687f949fef47e678426ab447",
-        "company": "Qualtrics",
-        "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I - Foundation",
-        "locations": [
-            "Provo, UT"
-        ],
-        "apply_links": {
-            "official": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"
-        },
-        "posted_days_ago": 3,
-        "timestamp": 1753191583444
-    },
-    {
-        "_id": "687f949eef47e678426ab446",
-        "company": "Coalition",
-        "company_url": "https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/b8410e88-84d1-4aea-9b97-aea36b0a5fdd?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753191582622
-    },
-    {
-        "_id": "687f949def47e678426ab445",
-        "company": "Coalition",
-        "company_url": "https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/b70c7334-2f4e-43c5-b676-e430713cbd61?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753191581700
     }
 ]
