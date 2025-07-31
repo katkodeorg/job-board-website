@@ -1,5 +1,110 @@
 [
     {
+        "_id": "688b11d77eece2ea0819831f",
+        "company": "Truist",
+        "company_url": "",
+        "title": "2026 Truist Securities - Credit Sales & Trading Analyst Program (Intern Conversion)",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "apply_links": {
+            "official": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Credit-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105083",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944535893
+    },
+    {
+        "_id": "688b11d77eece2ea0819831e",
+        "company": "Truist",
+        "company_url": "",
+        "title": "2026 Truist Securities - Equity Sales & Trading Analyst Program (Intern Conversion)",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "apply_links": {
+            "official": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Equity-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105099",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944535084
+    },
+    {
+        "_id": "688b11d67eece2ea0819831d",
+        "company": "Schweitzer Engineering Laboratories",
+        "company_url": "",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Pullman, Washington"
+        ],
+        "apply_links": {
+            "official": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17597",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944534416
+    },
+    {
+        "_id": "688b11d57eece2ea0819831c",
+        "company": "Amazon.com",
+        "company_url": "",
+        "title": "Amazon Robotics - Research Scientist Intern - Summer 2025, Amazon Robotics",
+        "locations": [
+            "Massachusetts"
+        ],
+        "apply_links": {
+            "official": "https://www.amazon.jobs/en/jobs/3047455/amazon-robotics-research-scientist-intern-summer-2025-amazon-robotics",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944533740
+    },
+    {
+        "_id": "688b11d57eece2ea0819831b",
+        "company": "HNTB",
+        "company_url": "",
+        "title": "Returning New Grad Software Engineer I- Great Lakes Division - For Current/Former HNTB Interns Only",
+        "locations": [
+            "Kansas City, Missouri"
+        ],
+        "apply_links": {
+            "official": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944533043
+    },
+    {
+        "_id": "688b11d47eece2ea0819831a",
+        "company": "Leonardo DRS",
+        "company_url": "",
+        "title": "Embedded Software Engineer Intern",
+        "locations": [
+            "Bridgeton, Missouri"
+        ],
+        "apply_links": {
+            "official": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1311812900/",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944532367
+    },
+    {
+        "_id": "688b11d37eece2ea08198319",
+        "company": "University of South Florida",
+        "company_url": "",
+        "title": "IAE Data Analyst / Accounting Operations Internship (Special Operations Financial Management Directorate) - Fall 2025",
+        "locations": [
+            "Tampa, Florida"
+        ],
+        "apply_links": {
+            "official": "https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/40651",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944531573
+    },
+    {
         "_id": "688b08d8db69e29dece9950e",
         "company": "Northrop Grumman",
         "company_url": "",
@@ -1032,110 +1137,5 @@
         },
         "posted_days_ago": 4,
         "timestamp": 1753204239957
-    },
-    {
-        "_id": "687fc58dcf97daf6510357a6",
-        "company": "Reality Defender",
-        "company_url": "https://realitydefender.com/",
-        "title": "Computer Vision Intern",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753204109150
-    },
-    {
-        "_id": "687fc50ecf97daf6510357a5",
-        "company": "U.S. Bank",
-        "company_url": "",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Brookfield, Wisconsin"
-        ],
-        "apply_links": {
-            "official": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1_2025-0016515-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753203982284
-    },
-    {
-        "_id": "687fc50dcf97daf6510357a4",
-        "company": "Hewlett Packard Enterprise",
-        "company_url": "",
-        "title": "Cloud Scale Test Engineer l",
-        "locations": [
-            "San Jose, California"
-        ],
-        "apply_links": {
-            "official": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Scale-Test-Engineer-l_1191231-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753203981611
-    },
-    {
-        "_id": "687fc413cf97daf6510357a3",
-        "company": "ConnectPrep",
-        "company_url": "",
-        "title": "Data Analyst Internship",
-        "locations": [
-            "Westport, Connecticut"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/051EDA1630/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753203731127
-    },
-    {
-        "_id": "687fbe45b41ef1d06d970f67",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202245140
-    },
-    {
-        "_id": "687fbe44b41ef1d06d970f66",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202244355
-    },
-    {
-        "_id": "687fbdb8b41ef1d06d970f65",
-        "company": "Hewlett Packard Enterprise",
-        "company_url": "",
-        "title": "Cloud Scale Test Engineer I",
-        "locations": [
-            "San Jose, California"
-        ],
-        "apply_links": {
-            "official": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Scale-Test-Engineer-l_1191231-3",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202104958
     }
 ]
