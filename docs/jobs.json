@@ -1,5 +1,39 @@
 [
     {
+        "_id": "688b6952eb1d0ba518394d33",
+        "company": "DoorDash",
+        "company_url": "https://www.doordash.com",
+        "title": "Machine Learning Intern - Master\u2019s only - Fall 2025",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/doordashusa/jobs/7108147",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753966930646
+    },
+    {
+        "_id": "688b6951eb1d0ba518394d32",
+        "company": "DoorDash",
+        "company_url": "https://www.doordash.com",
+        "title": "Machine Learning Intern - PhD only - Fall 2025",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/doordashusa/jobs/7117825",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753966929655
+    },
+    {
         "_id": "688b2246eb1d0ba518394d31",
         "company": "Leidos",
         "company_url": "https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company",
@@ -1099,34 +1133,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753370112116
-    },
-    {
-        "_id": "68824dff103f5aeda72f69fc",
-        "company": "Tesla",
-        "company_url": "https://www.tesla.com/careers/search/job/246199?utm_source=cvrve",
-        "title": "Software Integration Engineer, AI Platforms",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.tesla.com/careers/search/job/246199?utm_source=cvrve"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753370111370
-    },
-    {
-        "_id": "68824adc103f5aeda72f69fb",
-        "company": "Benchling",
-        "company_url": "",
-        "title": "Software Engineer, Full Stack (Lab Auto)",
-        "locations": [
-            "Boston, MA"
-        ],
-        "apply_links": {
-            "official": "https://boards.greenhouse.io/embed/job_app?token=7083333&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 4,
-        "timestamp": 1753369308736
     }
 ]
