@@ -1,5 +1,226 @@
 [
     {
+        "_id": "688b974beb1d0ba518394d4b",
+        "company": "Enterprise Horizon Consulting Group",
+        "company_url": "",
+        "title": "Jr. Database Administrator- Secret Clearance",
+        "locations": [
+            "Philadelphia",
+            "Pennsylvania"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/34070ACB46/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978699236
+    },
+    {
+        "_id": "688b974aeb1d0ba518394d4a",
+        "company": "Enterprise Horizon Consulting Group",
+        "company_url": "",
+        "title": "Jr. Software Developer- Secret Clearance",
+        "locations": [
+            "Philadelphia",
+            "Pennsylvania"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/D8DC63634F/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978698584
+    },
+    {
+        "_id": "688b9749eb1d0ba518394d49",
+        "company": "Iowa State University",
+        "company_url": "",
+        "title": "Research Scientist I",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Ames-IA/Research-Scientist-I_R17372",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978697916
+    },
+    {
+        "_id": "688b9749eb1d0ba518394d48",
+        "company": "Enterprise Horizon Consulting Group",
+        "company_url": "",
+        "title": "Jr. Software/Application (ServiceNow) Developer- Secret Clearance",
+        "locations": [
+            "Philadelphia",
+            "Pennsylvania"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/2DFE246E75/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978697138
+    },
+    {
+        "_id": "688b9748eb1d0ba518394d47",
+        "company": "Medline Industries, LP",
+        "company_url": "",
+        "title": "Associate Product Manager - October 2025 Start Date",
+        "locations": [
+            "Northfield",
+            "Minnesota"
+        ],
+        "apply_links": {
+            "official": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Associate-Product-Manager---October-2025-Start-Date_R2512055-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978696439
+    },
+    {
+        "_id": "688b9747eb1d0ba518394d46",
+        "company": "Radix Trading",
+        "company_url": "",
+        "title": "Quantitative Researcher (Full-Time - Master\u2019s/Bachelor\u2019s)",
+        "locations": [
+            "Amsterdam",
+            "North Holland"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/radixuniversity/jobs/7841868002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978695738
+    },
+    {
+        "_id": "688b9746eb1d0ba518394d45",
+        "company": "HII",
+        "company_url": "",
+        "title": "Cyber Security Engineer - COBRA",
+        "locations": [
+            "Albuquerque",
+            "New Mexico"
+        ],
+        "apply_links": {
+            "official": "https://jobs.hii-tsd.com/job/Albuquerque%2C-NM-Cyber-Security-Engineer-COBRA-New/1310566700/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978694992
+    },
+    {
+        "_id": "688b96afeb1d0ba518394d44",
+        "company": "Leonardo DRS",
+        "company_url": "",
+        "title": "Systems Engineer Intern",
+        "locations": [
+            "Bridgeton",
+            "Missouri"
+        ],
+        "apply_links": {
+            "official": "https://careers.leonardodrs.com/job/Bridgeton-Systems-Engineer-Intern-MO-63044/1312553700/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978543084
+    },
+    {
+        "_id": "688b96aeeb1d0ba518394d43",
+        "company": "Pratt & Whitney Canada",
+        "company_url": "",
+        "title": "2026 Returning Intern \u2013 Quality Engineer Intern",
+        "locations": [
+            "Louisville",
+            "Kentucky"
+        ],
+        "apply_links": {
+            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/KY201-RMS-Louisville-6201-Strawberry-Lane-Louisville-KY-40214-Louisville-KY-40202-USA/XMLNAME-2026-Returning-Intern---Quality-Engineer-Intern_01782888",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978542015
+    },
+    {
+        "_id": "688b96adeb1d0ba518394d42",
+        "company": "BMW Group",
+        "company_url": "",
+        "title": "Data Analyst Intern, Controlling (12 Months)",
+        "locations": [
+            "Richmond Hill",
+            "Ontario"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bmwgroup.com/job/Richmond-Hill-Data-Analyst-Intern%2C-Controlling-%2812-Months%29-ON/1230649501/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978541226
+    },
+    {
+        "_id": "688b96aceb1d0ba518394d41",
+        "company": "HII",
+        "company_url": "",
+        "title": "Data Scientist - 24706 (Engineering Intern 4)",
+        "locations": [
+            "Massachusetts"
+        ],
+        "apply_links": {
+            "official": "https://jobs.hii-tsd.com/job/Pocasset%2C-MA-Data-Scientist-24706-%28Engineering-Intern-4%29-Mass/1312383400/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978540466
+    },
+    {
+        "_id": "688b96abeb1d0ba518394d40",
+        "company": "Nokia",
+        "company_url": "",
+        "title": "Automation Engineer Co-op/Intern",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/20101",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978539626
+    },
+    {
+        "_id": "688b96aaeb1d0ba518394d3f",
+        "company": "HP",
+        "company_url": "",
+        "title": "Software Developer Internship",
+        "locations": [
+            "Houston",
+            "Texas"
+        ],
+        "apply_links": {
+            "official": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978538959
+    },
+    {
+        "_id": "688b96a9eb1d0ba518394d3e",
+        "company": "New York Life Insurance Co",
+        "company_url": "",
+        "title": "2025 Asset Liability Management Summer Internship",
+        "locations": [
+            "New York City",
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://jobs.newyorklife.com/job/New-York-2025-Asset-Liability-Management-Summer-Internship-NY-10001/1306000600/",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753978537766
+    },
+    {
         "_id": "688b938eeb1d0ba518394d3d",
         "company": "ByteDance",
         "company_url": "https://jobs.bytedance.com",
@@ -932,218 +1153,5 @@
         },
         "posted_days_ago": 2,
         "timestamp": 1753652234439
-    },
-    {
-        "_id": "68869c09399af300bc04cc9e",
-        "company": "Amentum",
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "apply_links": {
-            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142817?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/91e3c508-4b87-475d-9cb1-3688326bb405?utm_source=GHList"
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753652233443
-    },
-    {
-        "_id": "68869c07399af300bc04cc9d",
-        "company": "Maybern",
-        "company_url": "https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer \u2013 New Grad",
-        "locations": [
-            "NYC"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/1dbd172a-5bd7-46cc-bdeb-651eb76a9d90?utm_source=GHList"
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753652231762
-    },
-    {
-        "_id": "6883c4063272fb4b245f0977",
-        "company": "Qualtrics",
-        "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I - Foundation",
-        "locations": [
-            "Provo, UT"
-        ],
-        "apply_links": {
-            "official": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"
-        },
-        "posted_days_ago": 6,
-        "timestamp": 1753465862022
-    },
-    {
-        "_id": "6883c4053272fb4b245f0976",
-        "company": "mthree",
-        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753465861049
-    },
-    {
-        "_id": "68831e73b4c6aa817875d362",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753423475748
-    },
-    {
-        "_id": "68831e72b4c6aa817875d361",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753423474764
-    },
-    {
-        "_id": "68831e71b4c6aa817875d360",
-        "company": "Franklin St",
-        "company_url": "https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "apply_links": {
-            "official": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/c3f9ea9a-bc61-4ef2-9206-158a41f33374?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753423473910
-    },
-    {
-        "_id": "6882a095e8635f7d92cd0b9b",
-        "company": "Inogen",
-        "company_url": "",
-        "title": "Firmware Engineering Intern",
-        "locations": [
-            "Plano, TX"
-        ],
-        "apply_links": {
-            "official": "https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753391253402
-    },
-    {
-        "_id": "6882a094e8635f7d92cd0b9a",
-        "company": "Virtu",
-        "company_url": "",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Austin, TX",
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/virtu/jobs/7848570002?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753391252704
-    },
-    {
-        "_id": "6882a093e8635f7d92cd0b99",
-        "company": "Virtu",
-        "company_url": "",
-        "title": "Quantitative Trading Intern",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/virtu/jobs/7848562002?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753391251861
-    },
-    {
-        "_id": "68825c3e103f5aeda72f6a0a",
-        "company": "Toyota Tsusho Systems",
-        "company_url": "",
-        "title": "Automotive Cybersecurity Test Engineer",
-        "locations": [
-            "Plano, Texas"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/A826681ED3/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373758149
-    },
-    {
-        "_id": "68825c3d103f5aeda72f6a09",
-        "company": "WEX",
-        "company_url": "",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Illinois"
-        ],
-        "apply_links": {
-            "official": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Chicago-IL/Junior-Software-Engineer_R18688",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373757466
-    },
-    {
-        "_id": "68825c3c103f5aeda72f6a08",
-        "company": "Publix",
-        "company_url": "",
-        "title": "Software Engineer \u2013 Jacksonville Central Fill",
-        "locations": [
-            "Lakeland, Florida"
-        ],
-        "apply_links": {
-            "official": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26173&siteid=5197&PageType=JobDetails&jobid=1352716",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373756735
-    },
-    {
-        "_id": "68825c3c103f5aeda72f6a07",
-        "company": "NAVEX",
-        "company_url": "",
-        "title": "Software Engineer, Production Support",
-        "locations": [
-            "Lake Oswego, Oregon"
-        ],
-        "apply_links": {
-            "official": "https://navexglobal.wd5.myworkdayjobs.com/en-US/NAVEX/job/Hybrid-Lake-Oswego-OR/Software-Engineer--Production-Support_R6058",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373756018
     }
 ]
