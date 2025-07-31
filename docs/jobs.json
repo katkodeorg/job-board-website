@@ -1,5 +1,35 @@
 [
     {
+        "_id": "688b859aeb1d0ba518394d36",
+        "company": "General Dynamics",
+        "company_url": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity?utm_source=ouckah",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "apply_links": {
+            "official": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753974170298
+    },
+    {
+        "_id": "688b8599eb1d0ba518394d35",
+        "company": "New York Life Insurance",
+        "company_url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance&utm_source=ouckah",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753974169600
+    },
+    {
         "_id": "688b7779eb1d0ba518394d34",
         "company": "Esri",
         "company_url": "https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company",
@@ -1107,33 +1137,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753370115568
-    },
-    {
-        "_id": "68824e02103f5aeda72f69ff",
-        "company": "Tesla",
-        "company_url": "https://www.tesla.com/careers/search/job/246315?utm_source=cvrve",
-        "title": "Applications Engineer, Megapack",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.tesla.com/careers/search/job/246315?utm_source=cvrve"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753370114883
-    },
-    {
-        "_id": "68824e02103f5aeda72f69fe",
-        "company": "Tesla",
-        "company_url": "https://www.tesla.com/careers/search/job/246089?utm_source=cvrve",
-        "title": "Software Engineer, Optimus Inference Co Design",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.tesla.com/careers/search/job/246089?utm_source=cvrve"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753370114071
     }
 ]
