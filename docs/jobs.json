@@ -1,5 +1,21 @@
 [
     {
+        "_id": "688b7779eb1d0ba518394d34",
+        "company": "Esri",
+        "company_url": "https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company",
+        "title": ".NET/C# Software Development Engineer I - SDK",
+        "locations": [
+            "West Redlands",
+            "Redlands, CA"
+        ],
+        "apply_links": {
+            "official": "https://www.esri.com/careers/4803095007?gh_jid=4803095007&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/36e74f92-9b86-4fd3-ad81-cc172200ff92?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1753970553759
+    },
+    {
         "_id": "688b6952eb1d0ba518394d33",
         "company": "DoorDash",
         "company_url": "https://www.doordash.com",
@@ -1119,19 +1135,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753370114071
-    },
-    {
-        "_id": "68824e00103f5aeda72f69fd",
-        "company": "Tesla",
-        "company_url": "https://www.tesla.com/careers/search/job/246198?utm_source=cvrve",
-        "title": "Camera Software Engineer, AI Platforms",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.tesla.com/careers/search/job/246198?utm_source=cvrve"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753370112116
     }
 ]
