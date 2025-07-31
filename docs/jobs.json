@@ -1,5 +1,117 @@
 [
     {
+        "_id": "688b938eeb1d0ba518394d3d",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Backend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7532640535036741906/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977742380
+    },
+    {
+        "_id": "688b938deb1d0ba518394d3c",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Software Engineer Graduate (PICO Foundation) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7532618536427391240/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977741172
+    },
+    {
+        "_id": "688b938ceb1d0ba518394d3b",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Backend Software Engineer Graduate (Customer Service Platform) - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle",
+            "Washington"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7527836662400026898/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977740142
+    },
+    {
+        "_id": "688b938beb1d0ba518394d3a",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7281840914820237627/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977739132
+    },
+    {
+        "_id": "688b9389eb1d0ba518394d39",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Backend Software Engineer - Global E-Commerce Supply Chain & Logistics",
+        "locations": [
+            "Seattle",
+            "Washington"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7504804978981161224/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977737878
+    },
+    {
+        "_id": "688b9389eb1d0ba518394d38",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Backend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle",
+            "Washington"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7532656714349365512/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977737054
+    },
+    {
+        "_id": "688b9388eb1d0ba518394d37",
+        "company": "ByteDance",
+        "company_url": "https://jobs.bytedance.com",
+        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
+        "locations": [
+            "Seattle",
+            "Washington"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7262831263546394939/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753977736258
+    },
+    {
         "_id": "688b859aeb1d0ba518394d36",
         "company": "General Dynamics",
         "company_url": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity?utm_source=ouckah",
@@ -1033,109 +1145,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753373756018
-    },
-    {
-        "_id": "68825c3b103f5aeda72f6a06",
-        "company": "Highspot",
-        "company_url": "",
-        "title": "Software Development Engineer",
-        "locations": [
-            "Vancouver, British Columbia"
-        ],
-        "apply_links": {
-            "official": "https://jobs.lever.co/highspot/a1945d0f-e062-4bad-8069-9f8f0bc15458",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373755094
-    },
-    {
-        "_id": "68825bae103f5aeda72f6a05",
-        "company": "SAP",
-        "company_url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Full-stack-Software-Developer-Vancouver-Brit-V6B-1A9/1228136601/",
-        "title": "SAP iXp Intern - Full-stack Software Developer [Vancouver]",
-        "locations": [
-            "Vancouver, British Columbia"
-        ],
-        "apply_links": {
-            "official": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Full-stack-Software-Developer-Vancouver-Brit-V6B-1A9/1228136601/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373614687
-    },
-    {
-        "_id": "68825bac103f5aeda72f6a04",
-        "company": "Stride, Inc.",
-        "company_url": "",
-        "title": "K12 Zone Content & Event Intern, Part-Time",
-        "locations": [
-            "Virginia"
-        ],
-        "apply_links": {
-            "official": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Content---Event-Intern--Part-Time_JR109508",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373612968
-    },
-    {
-        "_id": "68825bac103f5aeda72f6a03",
-        "company": "HNTB",
-        "company_url": "",
-        "title": "Returning Software Engineer I - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)",
-        "locations": [
-            "Atlanta, Georgia"
-        ],
-        "apply_links": {
-            "official": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Atlanta-GA/Returning-Software-Engineer-I---Summer-2026--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-26709-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373612255
-    },
-    {
-        "_id": "68825bab103f5aeda72f6a02",
-        "company": "Al Warren Oil Company",
-        "company_url": "",
-        "title": "Software Developer - Fall Internship 2025",
-        "locations": [
-            "Bensenville, Illinois"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/AC71922A6F/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373611539
-    },
-    {
-        "_id": "68825baa103f5aeda72f6a01",
-        "company": "SAP",
-        "company_url": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-App-Foundation-AI-Engineer-CA-94304/1226469801/",
-        "title": "SAP iXp Intern- App Foundation AI Engineer",
-        "locations": [
-            "Palo Alto, California"
-        ],
-        "apply_links": {
-            "official": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-App-Foundation-AI-Engineer-CA-94304/1226469801/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753373610791
-    },
-    {
-        "_id": "68824e03103f5aeda72f6a00",
-        "company": "Spotify",
-        "company_url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813?utm_source=cvrve",
-        "title": "Associate Machine Learning Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813?utm_source=cvrve"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753370115568
     }
 ]
