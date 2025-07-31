@@ -1,5 +1,80 @@
 [
     {
+        "_id": "688b08d8db69e29dece9950e",
+        "company": "Northrop Grumman",
+        "company_url": "",
+        "title": "Modeling and Simulation Engineer- level 1/2- (AHT)",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Modeling-and-Simulation-Engineer--level-1-2---AHT-_R10202089",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753942232251
+    },
+    {
+        "_id": "688b08d7db69e29dece9950d",
+        "company": "WEX",
+        "company_url": "",
+        "title": "Junior Software Development Engineer",
+        "locations": [
+            "Colorado"
+        ],
+        "apply_links": {
+            "official": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Junior-Software-Development-Engineer_R18744",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753942231557
+    },
+    {
+        "_id": "688b08d6db69e29dece9950c",
+        "company": "McKesson",
+        "company_url": "",
+        "title": "Sr Associate Software Engineer",
+        "locations": [
+            "Columbus, Ohio"
+        ],
+        "apply_links": {
+            "official": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Columbus-OH-USA---910-John-Street-CMM-Main-Campus-C317/Sr-Associate-Software-Engineer_JR0132751",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753942230894
+    },
+    {
+        "_id": "688b08d6db69e29dece9950b",
+        "company": "LSEG",
+        "company_url": "",
+        "title": "Research Analyst (Quantitative, Data)",
+        "locations": [
+            "Charlotte, North Carolina"
+        ],
+        "apply_links": {
+            "official": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Charlotte-United-States/Research-Analyst--Quantitative--Data-_R0108232-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753942230069
+    },
+    {
+        "_id": "688b08d5db69e29dece9950a",
+        "company": "Teracore",
+        "company_url": "",
+        "title": "Junior Data Analyst",
+        "locations": [
+            "Maryland"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/teracore/jobs/5432571004",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753942229266
+    },
+    {
         "_id": "6887a1a12d248ded74d7ac73",
         "company": "Meta",
         "company_url": "",
@@ -1062,80 +1137,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753202104958
-    },
-    {
-        "_id": "687fbdb8b41ef1d06d970f64",
-        "company": "Johns Hopkins University",
-        "company_url": "",
-        "title": "Assistant Research Scientist (PREP0003677)",
-        "locations": [
-            "Gaithersburg, Maryland"
-        ],
-        "apply_links": {
-            "official": "https://apply.interfolio.com/170757",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202104161
-    },
-    {
-        "_id": "687fbdb7b41ef1d06d970f63",
-        "company": "Grand Rising LLC",
-        "company_url": "",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Hanover, Maryland"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/D0043D281B/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202103232
-    },
-    {
-        "_id": "687fbdb6b41ef1d06d970f62",
-        "company": "EVgo",
-        "company_url": "",
-        "title": "Software Development Engineer I",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://jobs.jobvite.com/evgo/job/oD8wwfwx",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202102474
-    },
-    {
-        "_id": "687fbd2ab41ef1d06d970f61",
-        "company": "Five Rings",
-        "company_url": "",
-        "title": "Summer Intern 2026 - Quantitative Research Analyst",
-        "locations": [
-            "New York City, New York"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201962472
-    },
-    {
-        "_id": "687fbd29b41ef1d06d970f60",
-        "company": "Medicom",
-        "company_url": "",
-        "title": "Research Data Analyst, Internship",
-        "locations": [
-            "Raleigh, North Carolina"
-        ],
-        "apply_links": {
-            "official": "https://ats.rippling.com/medicom-careers/jobs/45596438-8c06-46bf-ad03-22b335e6de1b",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753201961775
     }
 ]
