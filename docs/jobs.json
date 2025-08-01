@@ -1,5 +1,114 @@
 [
     {
+        "_id": "688ce698ac1a7d0f7dc88eff",
+        "company": "TikTok",
+        "company_url": "https://lifeattiktok.com/search/7532735339883710728",
+        "title": "Machine Learning Engineer Intern (TikTok-Engine and Tools-3D graphics) - 2026 Start (PhD)",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://lifeattiktok.com/search/7532735339883710728",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754064536037
+    },
+    {
+        "_id": "688ce696ac1a7d0f7dc88efe",
+        "company": "AppLovin",
+        "company_url": "https://boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754064534718
+    },
+    {
+        "_id": "688ce695ac1a7d0f7dc88efd",
+        "company": "T. Rowe Price",
+        "company_url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Quantitative-Investing-Internship-Program_77528",
+        "title": "2026 Quantitative Investing Internship Program",
+        "locations": [
+            "Baltimore",
+            "Maryland"
+        ],
+        "apply_links": {
+            "official": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Quantitative-Investing-Internship-Program_77528",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754064533724
+    },
+    {
+        "_id": "688ce694ac1a7d0f7dc88efc",
+        "company": "Pratt & Whitney Canada",
+        "company_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/TX232-Richardson-1727-CityLine-1727-East-CityLine-Drive-Building-C27-Richardson-TX-75082-USA/XMLNAME-2026-Return-Intern---Raytheon-Software-Engineer-Intern--On-site-_01783015",
+        "title": "2026 Return Intern - Raytheon Software Engineer Intern (On-site)",
+        "locations": [
+            "Richardson",
+            "Texas"
+        ],
+        "apply_links": {
+            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/TX232-Richardson-1727-CityLine-1727-East-CityLine-Drive-Building-C27-Richardson-TX-75082-USA/XMLNAME-2026-Return-Intern---Raytheon-Software-Engineer-Intern--On-site-_01783015",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754064532944
+    },
+    {
+        "_id": "688ce694ac1a7d0f7dc88efb",
+        "company": "Copart",
+        "company_url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Mobile-Developer-Intern--AI---ML-_JR104180",
+        "title": "Mobile Developer Intern (AI / ML)",
+        "locations": [
+            "Texas"
+        ],
+        "apply_links": {
+            "official": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Mobile-Developer-Intern--AI---ML-_JR104180",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754064532244
+    },
+    {
+        "_id": "688ce693ac1a7d0f7dc88efa",
+        "company": "Microchip Technology Inc.",
+        "company_url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1100-25",
+        "title": "Intern- Engineering (Data Analyst)",
+        "locations": [
+            "Chandler",
+            "Arizona"
+        ],
+        "apply_links": {
+            "official": "https://microchiphr.wd5.myworkdayjobs.com/en-US/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1100-25",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754064531404
+    },
+    {
+        "_id": "688ce692ac1a7d0f7dc88ef9",
+        "company": "CrowdStrike",
+        "company_url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199",
+        "title": "Frontend Engineer Intern - Fall 2025 (Remote)",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754064530760
+    },
+    {
         "_id": "688ce367ac1a7d0f7dc88ef8",
         "company": "ByteDance",
         "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
@@ -2197,117 +2306,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753284897602
-    },
-    {
-        "_id": "688101206d81ce0813cce6e0",
-        "company": "M&T Bank",
-        "company_url": "",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "apply_links": {
-            "official": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753284896900
-    },
-    {
-        "_id": "688101206d81ce0813cce6df",
-        "company": "Squarepoint",
-        "company_url": "",
-        "title": "Quant Researcher Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753284896132
-    },
-    {
-        "_id": "6881011f6d81ce0813cce6de",
-        "company": "Tenstorrent",
-        "company_url": "",
-        "title": "Software Intern - AI Compilers",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Toronto, ON"
-        ],
-        "apply_links": {
-            "official": "https://boards.greenhouse.io/embed/job_app?token=4501189007&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753284895334
-    },
-    {
-        "_id": "6881011e6d81ce0813cce6dd",
-        "company": "The Trade Desk",
-        "company_url": "",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Boulder, CO",
-            "Denver, CO",
-            "Irvine, CA",
-            "Bellevue, WA",
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753284894681
-    },
-    {
-        "_id": "6880ddc1325b7937b2487278",
-        "company": "Hitachi",
-        "company_url": "https://www.hitachi.com",
-        "title": "Research Internship - AI Agents for Industrial Applications",
-        "locations": [
-            "Santa Clara, California, United States"
-        ],
-        "apply_links": {
-            "official": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753275841040
-    },
-    {
-        "_id": "688089a1325b7937b2487277",
-        "company": "Chewy",
-        "company_url": "https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Seattle, WA",
-            "Bellevue, WA"
-        ],
-        "apply_links": {
-            "official": "https://boards.greenhouse.io/embed/job_app?token=7075000&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/e3160033-b187-489b-9a2c-6ad90c7eb959?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753254305962
-    },
-    {
-        "_id": "688089a0325b7937b2487276",
-        "company": "mthree",
-        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753254304698
     }
 ]
