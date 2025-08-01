@@ -1,5 +1,54 @@
 [
     {
+        "_id": "688cbbe1ac1a7d0f7dc88ef5",
+        "company": "Asana",
+        "company_url": "https://grnh.se/f78375ba1",
+        "title": "Data Science Intern",
+        "locations": [
+            "New York City"
+        ],
+        "apply_links": {
+            "official": "https://www.asana.com/jobs/apply/7071272?gh_jid=7071272",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1754053601406
+    },
+    {
+        "_id": "688cbbe0ac1a7d0f7dc88ef4",
+        "company": "GDIT",
+        "company_url": "https://www.gdit.com",
+        "title": "Summer 2026 Artificial Intelligence/Machine Learning Associate Internship",
+        "locations": [
+            "USA",
+            "VA",
+            "Falls Church"
+        ],
+        "apply_links": {
+            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754053600702
+    },
+    {
+        "_id": "688cbbdfac1a7d0f7dc88ef3",
+        "company": "GDIT",
+        "company_url": "https://www.gdit.com",
+        "title": "GDIT Summer Internship Program - Summer 2026 Data Science Associate Internship",
+        "locations": [
+            "USA",
+            "FL",
+            "Tampa"
+        ],
+        "apply_links": {
+            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754053599966
+    },
+    {
         "_id": "688c9541ac1a7d0f7dc88ef2",
         "company": "Copart",
         "company_url": "",
@@ -2263,50 +2312,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753203982284
-    },
-    {
-        "_id": "687fc50dcf97daf6510357a4",
-        "company": "Hewlett Packard Enterprise",
-        "company_url": "",
-        "title": "Cloud Scale Test Engineer l",
-        "locations": [
-            "San Jose, California"
-        ],
-        "apply_links": {
-            "official": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Scale-Test-Engineer-l_1191231-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753203981611
-    },
-    {
-        "_id": "687fc413cf97daf6510357a3",
-        "company": "ConnectPrep",
-        "company_url": "",
-        "title": "Data Analyst Internship",
-        "locations": [
-            "Westport, Connecticut"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/051EDA1630/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753203731127
-    },
-    {
-        "_id": "687fbe45b41ef1d06d970f67",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753202245140
     }
 ]
