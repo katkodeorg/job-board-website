@@ -1,5 +1,66 @@
 [
     {
+        "_id": "688c61a1ac1a7d0f7dc88eea",
+        "company": "AppLovin",
+        "company_url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&gh_src=cb2018976us&utm_source=ouckah",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&gh_src=cb2018976us&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754030497372
+    },
+    {
+        "_id": "688c61a0ac1a7d0f7dc88ee9",
+        "company": "Baseten",
+        "company_url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37?utm_source=ouckah",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754030496631
+    },
+    {
+        "_id": "688c611cac1a7d0f7dc88ee8",
+        "company": "Motorola",
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company",
+        "title": "Junior Software Developer",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "apply_links": {
+            "official": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Junior-Software-Developer_R55998-1?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/f67c1936-5b21-4da6-98eb-07f4fa60271e?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754030364443
+    },
+    {
+        "_id": "688c607bac1a7d0f7dc88ee7",
+        "company": "CACI",
+        "company_url": "https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company",
+        "title": "Software Development Intern",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "apply_links": {
+            "official": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Development-Intern---Summer-2026_315321-1?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/5ee98427-9639-4bd1-aab3-77bf5b44bcaf?utm_source=GHList"
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754030203404
+    },
+    {
         "_id": "688bb640eb1d0ba518394d4d",
         "company": "Eversource Energy",
         "company_url": "",
@@ -1096,65 +1157,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753719201159
-    },
-    {
-        "_id": "6887a1a02d248ded74d7ac72",
-        "company": "CadMakers",
-        "company_url": "",
-        "title": "Junior Software Developer Intern (Co-op)",
-        "locations": [
-            "Burnaby, British Columbia"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/1549011D69/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719200462
-    },
-    {
-        "_id": "6887a19f2d248ded74d7ac71",
-        "company": "Plymouth Rock Assurance",
-        "company_url": "",
-        "title": "Product Analyst Intern",
-        "locations": [
-            "Boston, Massachusetts"
-        ],
-        "apply_links": {
-            "official": "https://myjobs.adp.com/plymouthrock/cx/job-details?reqId=5001138686300",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719199793
-    },
-    {
-        "_id": "6887a19e2d248ded74d7ac70",
-        "company": "Accenture",
-        "company_url": "",
-        "title": "Center for Advanced AI - Applied Research Scientist - Fall Graduate Intern - NAELFY26",
-        "locations": [
-            "Mountain View, California"
-        ],
-        "apply_links": {
-            "official": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719198692
-    },
-    {
-        "_id": "6887a19d2d248ded74d7ac6f",
-        "company": "Skillsoft",
-        "company_url": "",
-        "title": "Summer Intern - AI Product Manager",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://www.skillsoft.com/about/job/apply?id=4589662005&gh_jid=4589662005",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753719197694
     }
 ]
