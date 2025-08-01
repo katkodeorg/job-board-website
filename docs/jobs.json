@@ -1,5 +1,84 @@
 [
     {
+        "_id": "688ce036ac1a7d0f7dc88ef7",
+        "company": "ByteDance",
+        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
+        "title": "Frontend Software Engineer Intern - Global E-Commerce",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7533346008655825159/detail?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/6ab6835f-e402-420e-b119-a7c369286ab4?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754062902931
+    },
+    {
+        "_id": "688cd243ac1a7d0f7dc88ef6",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754059331132
+    },
+    {
+        "_id": "688cbbe1ac1a7d0f7dc88ef5",
+        "company": "Asana",
+        "company_url": "https://grnh.se/f78375ba1",
+        "title": "Data Science Intern",
+        "locations": [
+            "New York City"
+        ],
+        "apply_links": {
+            "official": "https://www.asana.com/jobs/apply/7071272?gh_jid=7071272",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1754053601406
+    },
+    {
+        "_id": "688cbbe0ac1a7d0f7dc88ef4",
+        "company": "GDIT",
+        "company_url": "https://www.gdit.com",
+        "title": "Summer 2026 Artificial Intelligence/Machine Learning Associate Internship",
+        "locations": [
+            "USA",
+            "VA",
+            "Falls Church"
+        ],
+        "apply_links": {
+            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754053600702
+    },
+    {
+        "_id": "688cbbdfac1a7d0f7dc88ef3",
+        "company": "GDIT",
+        "company_url": "https://www.gdit.com",
+        "title": "GDIT Summer Internship Program - Summer 2026 Data Science Associate Internship",
+        "locations": [
+            "USA",
+            "FL",
+            "Tampa"
+        ],
+        "apply_links": {
+            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754053599966
+    },
+    {
         "_id": "688c9541ac1a7d0f7dc88ef2",
         "company": "Copart",
         "company_url": "",
@@ -1094,80 +1173,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753945173639
-    },
-    {
-        "_id": "688b11d77eece2ea0819831f",
-        "company": "Truist",
-        "company_url": "",
-        "title": "2026 Truist Securities - Credit Sales & Trading Analyst Program (Intern Conversion)",
-        "locations": [
-            "Atlanta, Georgia"
-        ],
-        "apply_links": {
-            "official": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Credit-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105083",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753944535893
-    },
-    {
-        "_id": "688b11d77eece2ea0819831e",
-        "company": "Truist",
-        "company_url": "",
-        "title": "2026 Truist Securities - Equity Sales & Trading Analyst Program (Intern Conversion)",
-        "locations": [
-            "Atlanta, Georgia"
-        ],
-        "apply_links": {
-            "official": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Equity-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105099",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753944535084
-    },
-    {
-        "_id": "688b11d67eece2ea0819831d",
-        "company": "Schweitzer Engineering Laboratories",
-        "company_url": "",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Pullman, Washington"
-        ],
-        "apply_links": {
-            "official": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17597",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753944534416
-    },
-    {
-        "_id": "688b11d57eece2ea0819831c",
-        "company": "Amazon.com",
-        "company_url": "",
-        "title": "Amazon Robotics - Research Scientist Intern - Summer 2025, Amazon Robotics",
-        "locations": [
-            "Massachusetts"
-        ],
-        "apply_links": {
-            "official": "https://www.amazon.jobs/en/jobs/3047455/amazon-robotics-research-scientist-intern-summer-2025-amazon-robotics",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753944533740
-    },
-    {
-        "_id": "688b11d57eece2ea0819831b",
-        "company": "HNTB",
-        "company_url": "",
-        "title": "Returning New Grad Software Engineer I- Great Lakes Division - For Current/Former HNTB Interns Only",
-        "locations": [
-            "Kansas City, Missouri"
-        ],
-        "apply_links": {
-            "official": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753944533043
     }
 ]
