@@ -1,5 +1,20 @@
 [
     {
+        "_id": "688ce367ac1a7d0f7dc88ef8",
+        "company": "ByteDance",
+        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
+        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7533346574367377672/detail?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/082ca7b9-5288-4b74-98f7-b5c17bef229f?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754063719240
+    },
+    {
         "_id": "688ce036ac1a7d0f7dc88ef7",
         "company": "ByteDance",
         "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
@@ -2294,23 +2309,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753254304698
-    },
-    {
-        "_id": "687fc60fcf97daf6510357a7",
-        "company": "mthree",
-        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Salt Lake City, UT",
-            "Houston, TX",
-            "Dallas, TX",
-            "NYC"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4406180006?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/0032aa81-0d90-454a-a690-bd48849678fe?utm_source=GHList"
-        },
-        "posted_days_ago": 4,
-        "timestamp": 1753204239957
     }
 ]
