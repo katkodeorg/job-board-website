@@ -1,5 +1,20 @@
 [
     {
+        "_id": "688c9541ac1a7d0f7dc88ef2",
+        "company": "Copart",
+        "company_url": "",
+        "title": "Mobile Developer Intern (AI / ML)",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "apply_links": {
+            "official": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754043713151
+    },
+    {
         "_id": "688c7c1cac1a7d0f7dc88ef1",
         "company": "IMEG",
         "company_url": "https://simplify.jobs/c/IMEG?utm_source=GHList&utm_medium=company",
@@ -1154,20 +1169,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753944533043
-    },
-    {
-        "_id": "688b11d47eece2ea0819831a",
-        "company": "Leonardo DRS",
-        "company_url": "",
-        "title": "Embedded Software Engineer Intern",
-        "locations": [
-            "Bridgeton, Missouri"
-        ],
-        "apply_links": {
-            "official": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1311812900/",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753944532367
     }
 ]
