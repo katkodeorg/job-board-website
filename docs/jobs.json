@@ -1,5 +1,22 @@
 [
     {
+        "_id": "688c7349ac1a7d0f7dc88ef0",
+        "company": "Medtronic",
+        "company_url": "https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN"
+        ],
+        "apply_links": {
+            "official": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Software-Engineering-Intern---Summer-2026_R40546-1?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/65cba1ba-e064-47df-85a7-e8ae7fa2d2d3?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754035017339
+    },
+    {
         "_id": "688c6d59ac1a7d0f7dc88eef",
         "company": "Chase",
         "company_url": "https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company",
@@ -1145,20 +1162,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753944531573
-    },
-    {
-        "_id": "688b08d8db69e29dece9950e",
-        "company": "Northrop Grumman",
-        "company_url": "",
-        "title": "Modeling and Simulation Engineer- level 1/2- (AHT)",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Modeling-and-Simulation-Engineer--level-1-2---AHT-_R10202089",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942232251
     }
 ]
