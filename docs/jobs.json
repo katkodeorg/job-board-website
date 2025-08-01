@@ -1,5 +1,20 @@
 [
     {
+        "_id": "688ce036ac1a7d0f7dc88ef7",
+        "company": "ByteDance",
+        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
+        "title": "Frontend Software Engineer Intern - Global E-Commerce",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7533346008655825159/detail?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/6ab6835f-e402-420e-b119-a7c369286ab4?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754062902931
+    },
+    {
         "_id": "688cd243ac1a7d0f7dc88ef6",
         "company": "Palantir",
         "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
@@ -2297,20 +2312,5 @@
         },
         "posted_days_ago": 4,
         "timestamp": 1753204239957
-    },
-    {
-        "_id": "687fc58dcf97daf6510357a6",
-        "company": "Reality Defender",
-        "company_url": "https://realitydefender.com/",
-        "title": "Computer Vision Intern",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753204109150
     }
 ]
