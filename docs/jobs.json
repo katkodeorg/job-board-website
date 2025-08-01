@@ -1,5 +1,20 @@
 [
     {
+        "_id": "688c6d59ac1a7d0f7dc88eef",
+        "company": "Chase",
+        "company_url": "https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company",
+        "title": "2026 Software Engineer Program \u2013 Summer Internship",
+        "locations": [
+            "Austin, TX"
+        ],
+        "apply_links": {
+            "official": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/2a36841c-b128-4f9b-a663-04fe307327c2?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754033497939
+    },
+    {
         "_id": "688c6a46ac1a7d0f7dc88eee",
         "company": "The Travelers Companies",
         "company_url": "https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company",
@@ -1145,20 +1160,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753942232251
-    },
-    {
-        "_id": "688b08d7db69e29dece9950d",
-        "company": "WEX",
-        "company_url": "",
-        "title": "Junior Software Development Engineer",
-        "locations": [
-            "Colorado"
-        ],
-        "apply_links": {
-            "official": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Junior-Software-Development-Engineer_R18744",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942231557
     }
 ]
