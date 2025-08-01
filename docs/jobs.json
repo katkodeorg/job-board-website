@@ -1,54 +1,5 @@
 [
     {
-        "_id": "688cbbe1ac1a7d0f7dc88ef5",
-        "company": "Asana",
-        "company_url": "https://grnh.se/f78375ba1",
-        "title": "Data Science Intern",
-        "locations": [
-            "New York City"
-        ],
-        "apply_links": {
-            "official": "https://www.asana.com/jobs/apply/7071272?gh_jid=7071272",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1754053601406
-    },
-    {
-        "_id": "688cbbe0ac1a7d0f7dc88ef4",
-        "company": "GDIT",
-        "company_url": "https://www.gdit.com",
-        "title": "Summer 2026 Artificial Intelligence/Machine Learning Associate Internship",
-        "locations": [
-            "USA",
-            "VA",
-            "Falls Church"
-        ],
-        "apply_links": {
-            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754053600702
-    },
-    {
-        "_id": "688cbbdfac1a7d0f7dc88ef3",
-        "company": "GDIT",
-        "company_url": "https://www.gdit.com",
-        "title": "GDIT Summer Internship Program - Summer 2026 Data Science Associate Internship",
-        "locations": [
-            "USA",
-            "FL",
-            "Tampa"
-        ],
-        "apply_links": {
-            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754053599966
-    },
-    {
         "_id": "688c9541ac1a7d0f7dc88ef2",
         "company": "Copart",
         "company_url": "",
@@ -1173,5 +1124,50 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753944535084
+    },
+    {
+        "_id": "688b11d67eece2ea0819831d",
+        "company": "Schweitzer Engineering Laboratories",
+        "company_url": "",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Pullman, Washington"
+        ],
+        "apply_links": {
+            "official": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17597",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944534416
+    },
+    {
+        "_id": "688b11d57eece2ea0819831c",
+        "company": "Amazon.com",
+        "company_url": "",
+        "title": "Amazon Robotics - Research Scientist Intern - Summer 2025, Amazon Robotics",
+        "locations": [
+            "Massachusetts"
+        ],
+        "apply_links": {
+            "official": "https://www.amazon.jobs/en/jobs/3047455/amazon-robotics-research-scientist-intern-summer-2025-amazon-robotics",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944533740
+    },
+    {
+        "_id": "688b11d57eece2ea0819831b",
+        "company": "HNTB",
+        "company_url": "",
+        "title": "Returning New Grad Software Engineer I- Great Lakes Division - For Current/Former HNTB Interns Only",
+        "locations": [
+            "Kansas City, Missouri"
+        ],
+        "apply_links": {
+            "official": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1753944533043
     }
 ]
