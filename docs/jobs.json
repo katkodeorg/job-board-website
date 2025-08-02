@@ -1,5 +1,35 @@
 [
     {
+        "_id": "688cf8b6f55da3eb7e03f911",
+        "company": "Quantinuum",
+        "company_url": "https://simplify.jobs/c/Quantinuum?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "apply_links": {
+            "official": "https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/6adb6a85-61dd-4b56-bd51-24db9fc84062?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754069174709
+    },
+    {
+        "_id": "688cf812f55da3eb7e03f910",
+        "company": "HPR (Hyannis Port Research)",
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Needham, MA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/3f55a41c-bd7c-4855-83ca-36cd58dfe0ea?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754069010546
+    },
+    {
         "_id": "688ce730ac1a7d0f7dc88f06",
         "company": "Axpo Group",
         "company_url": "",
@@ -2280,35 +2310,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753287261942
-    },
-    {
-        "_id": "68810a5d6d81ce0813cce6e9",
-        "company": "Bombardier",
-        "company_url": "",
-        "title": "Intern, Business Analyst, Salesforce Product Owner (Fall, 2025)",
-        "locations": [
-            "Qu\u00e9bec, Quebec"
-        ],
-        "apply_links": {
-            "official": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Business-Analyst%2C-Salesforce-Product-Owner-%28Fall%2C-2025%29-Qu%C3%A9b-H4S-1Y9/1227702001/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287261176
-    },
-    {
-        "_id": "68810a5c6d81ce0813cce6e8",
-        "company": "Wells Fargo",
-        "company_url": "https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company",
-        "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
-        "locations": [
-            "Charlotte, North Carolina"
-        ],
-        "apply_links": {
-            "official": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287260262
     }
 ]
