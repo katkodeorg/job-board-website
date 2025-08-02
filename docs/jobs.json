@@ -1,5 +1,166 @@
 [
     {
+        "_id": "688d3fdde24757885906cbb9",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754087389791
+    },
+    {
+        "_id": "688d3f3be24757885906cbb8",
+        "company": "DV Trading",
+        "company_url": "https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company",
+        "title": "2026 Summer Internship - Software Development - DV Commodities",
+        "locations": [
+            "NYC"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/ae75de32-932b-4aaa-9376-cc6899f27e7c?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754087227248
+    },
+    {
+        "_id": "688d3f3ae24757885906cbb7",
+        "company": "DV Trading",
+        "company_url": "https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company",
+        "title": "2026 Summer Internship - Software Development - DV Commodities",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/dvtrading/jobs/4592920005?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b2dd48be-2d59-4034-abba-cb0e05dfdea7?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754087226566
+    },
+    {
+        "_id": "688d36bee24757885906cbb6",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/4cbc04d5-d651-438a-81ec-b82f768a6602?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754085054910
+    },
+    {
+        "_id": "688d339be24757885906cbb5",
+        "company": "Sentry",
+        "company_url": "",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, California"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/sentry/a5ce699d-b1a8-4b93-9217-33d16d77ccd6?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754084251136
+    },
+    {
+        "_id": "688d2af5e24757885906cbb4",
+        "company": "JPMorgan Chase",
+        "company_url": "",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY, United States",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "apply_links": {
+            "official": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210650080?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754082037805
+    },
+    {
+        "_id": "688d19f7e24757885906cbb3",
+        "company": "Truist",
+        "company_url": "https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company",
+        "title": "Technology and Innovation Internship",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA"
+        ],
+        "apply_links": {
+            "official": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Technology-and-Innovation-Internship--LDP-Intern-Conversion-_R0105154-1?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b35a6fc8-9d17-47b0-9442-a8c2d1da0c62?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754077687589
+    },
+    {
+        "_id": "688d16cce24757885906cbb2",
+        "company": "Jonas Software",
+        "company_url": "https://simplify.jobs/c/Jonas-Software?utm_source=GHList&utm_medium=company",
+        "title": "Jonas Summer Internship - Various Departments",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "apply_links": {
+            "official": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Summer-Internship---Various-Departments_R45900-1?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/a72e5801-dc21-4894-aeff-a01d5784addd?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754076876358
+    },
+    {
+        "_id": "688d13c4e24757885906cbb1",
+        "company": "Sentry",
+        "company_url": "https://simplify.jobs/c/Sentry?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "SF"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/a721ada6-fcb0-4048-b53c-5ef7d4052d55?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754076100349
+    },
+    {
+        "_id": "688d13c3e24757885906cbb0",
+        "company": "Sentry",
+        "company_url": "https://simplify.jobs/c/Sentry?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/8052f0a5-610c-4ede-9479-d5c72fd10773?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754076099485
+    },
+    {
         "_id": "688cfbe7f55da3eb7e03f912",
         "company": "Terex",
         "company_url": "https://simplify.jobs/c/Terex?utm_source=GHList&utm_medium=company",
@@ -2158,158 +2319,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753362021958
-    },
-    {
-        "_id": "68822e65103f5aeda72f69f8",
-        "company": "Blockhouse",
-        "company_url": "https://blockhouse.app/",
-        "title": "Quantitative Research Internship",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753362021234
-    },
-    {
-        "_id": "68813c0364c6fc38c9e29d73",
-        "company": "Castleton Commodities International",
-        "company_url": "",
-        "title": "GenAI Intern",
-        "locations": [
-            "Houston, TX"
-        ],
-        "apply_links": {
-            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753299971320
-    },
-    {
-        "_id": "688138d564c6fc38c9e29d72",
-        "company": "Castleton Commodities International",
-        "company_url": "",
-        "title": "Data Science ML Intern",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "apply_links": {
-            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753299157385
-    },
-    {
-        "_id": "68810c1164c6fc38c9e29d71",
-        "company": "Travelers",
-        "company_url": "",
-        "title": "Software Engineer I (Java, AWS, JSF)",
-        "locations": [
-            "Saint Paul, Minnesota"
-        ],
-        "apply_links": {
-            "official": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287697642
-    },
-    {
-        "_id": "68810c1064c6fc38c9e29d70",
-        "company": "Travelers",
-        "company_url": "",
-        "title": "Gen AI Data Engineer I",
-        "locations": [
-            "Atlanta, Georgia"
-        ],
-        "apply_links": {
-            "official": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287696940
-    },
-    {
-        "_id": "68810c1064c6fc38c9e29d6f",
-        "company": "Bank of America",
-        "company_url": "",
-        "title": "US Rates Research Analyst - Global Research",
-        "locations": [
-            "New York City, New York"
-        ],
-        "apply_links": {
-            "official": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/US-Rates-Research-Analyst---Global-Research_25018001-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287696231
-    },
-    {
-        "_id": "68810c0f64c6fc38c9e29d6e",
-        "company": "Radiance Technologies",
-        "company_url": "",
-        "title": "Junior Modeling & Simulation Engineer",
-        "locations": [
-            "Dayton, Ohio"
-        ],
-        "apply_links": {
-            "official": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Beavercreek-OH/Junior-Modeling---Simulation-Engineer_HR101679",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287695435
-    },
-    {
-        "_id": "68810c0e64c6fc38c9e29d6d",
-        "company": "US Conec Ltd.",
-        "company_url": "",
-        "title": "Engineering Data Analyst",
-        "locations": [
-            "Hickory, North Carolina"
-        ],
-        "apply_links": {
-            "official": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3280169",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287694643
-    },
-    {
-        "_id": "68810b8264c6fc38c9e29d6c",
-        "company": "Wells Fargo",
-        "company_url": "https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company",
-        "title": "Technology Summer Internship - Early Careers - Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "Irving, TX",
-            "Charlotte, NC"
-        ],
-        "apply_links": {
-            "official": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/ffe51158-461e-4569-ba8e-006aa3653f36?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287554540
-    },
-    {
-        "_id": "68810a5e6d81ce0813cce6eb",
-        "company": "Veolia",
-        "company_url": "",
-        "title": "Bilingual (ENG/FR) Digital Adoption Intern",
-        "locations": [
-            "Oakville, Ontario"
-        ],
-        "apply_links": {
-            "official": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000072057496-bilingual-eng-fr-digital-adoption-intern",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287262686
     }
 ]
