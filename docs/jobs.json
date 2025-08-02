@@ -1,5 +1,20 @@
 [
     {
+        "_id": "688d36bee24757885906cbb6",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/4cbc04d5-d651-438a-81ec-b82f768a6602?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754085054910
+    },
+    {
         "_id": "688d339be24757885906cbb5",
         "company": "Sentry",
         "company_url": "",
@@ -2304,20 +2319,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753299157385
-    },
-    {
-        "_id": "68810c1164c6fc38c9e29d71",
-        "company": "Travelers",
-        "company_url": "",
-        "title": "Software Engineer I (Java, AWS, JSF)",
-        "locations": [
-            "Saint Paul, Minnesota"
-        ],
-        "apply_links": {
-            "official": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287697642
     }
 ]
