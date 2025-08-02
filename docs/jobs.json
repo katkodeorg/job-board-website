@@ -1,5 +1,35 @@
 [
     {
+        "_id": "688db95ead67471cbb156298",
+        "company": "Altruist",
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "LA"
+        ],
+        "apply_links": {
+            "official": "https://altruist.com/join-altruist/5601815004?gh_jid=5601815004&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/22721d36-928b-4365-99da-95e8ac1ab96d?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754118494727
+    },
+    {
+        "_id": "688db95dad67471cbb156297",
+        "company": "Altruist",
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "SF"
+        ],
+        "apply_links": {
+            "official": "https://altruist.com/join-altruist/5601833004?gh_jid=5601833004&utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/6d2aa9ac-ebaf-4c30-85d5-72c8bc871493?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754118493794
+    },
+    {
         "_id": "688d3fdde24757885906cbb9",
         "company": "Palantir",
         "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
@@ -2288,36 +2318,5 @@
         },
         "posted_days_ago": 4,
         "timestamp": 1753369308736
-    },
-    {
-        "_id": "68824a5d103f5aeda72f69fa",
-        "company": "Lynk",
-        "company_url": "",
-        "title": "Telecommunications Intern",
-        "locations": [
-            "Washington DC"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7?utm_source=ouckah"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753369181377
-    },
-    {
-        "_id": "68822e65103f5aeda72f69f9",
-        "company": "Virtu Financial",
-        "company_url": "https://www.virtu.com",
-        "title": "Internship - Quantitative Trading",
-        "locations": [
-            "Austin",
-            "Chicago",
-            "New York"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753362021958
     }
 ]
