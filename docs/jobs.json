@@ -1,5 +1,21 @@
 [
     {
+        "_id": "688d19f7e24757885906cbb3",
+        "company": "Truist",
+        "company_url": "https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company",
+        "title": "Technology and Innovation Internship",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA"
+        ],
+        "apply_links": {
+            "official": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Technology-and-Innovation-Internship--LDP-Intern-Conversion-_R0105154-1?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b35a6fc8-9d17-47b0-9442-a8c2d1da0c62?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754077687589
+    },
+    {
         "_id": "688d16cce24757885906cbb2",
         "company": "Jonas Software",
         "company_url": "https://simplify.jobs/c/Jonas-Software?utm_source=GHList&utm_medium=company",
@@ -2294,20 +2310,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753287696231
-    },
-    {
-        "_id": "68810c0f64c6fc38c9e29d6e",
-        "company": "Radiance Technologies",
-        "company_url": "",
-        "title": "Junior Modeling & Simulation Engineer",
-        "locations": [
-            "Dayton, Ohio"
-        ],
-        "apply_links": {
-            "official": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Beavercreek-OH/Junior-Modeling---Simulation-Engineer_HR101679",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287695435
     }
 ]
