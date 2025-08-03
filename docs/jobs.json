@@ -1,5 +1,21 @@
 [
     {
+        "_id": "688cfbe7f55da3eb7e03f912",
+        "company": "Terex",
+        "company_url": "https://simplify.jobs/c/Terex?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer I - 3rd Eye",
+        "locations": [
+            "Austin, TX",
+            "Chattanooga, TN"
+        ],
+        "apply_links": {
+            "official": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/5c51f5ae-cc65-4ef8-b061-5d8d83699764?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754069991415
+    },
+    {
         "_id": "688cf8b6f55da3eb7e03f911",
         "company": "Quantinuum",
         "company_url": "https://simplify.jobs/c/Quantinuum?utm_source=GHList&utm_medium=company",
@@ -2295,20 +2311,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753287262686
-    },
-    {
-        "_id": "68810a5d6d81ce0813cce6ea",
-        "company": "Scientech Research LLC",
-        "company_url": "",
-        "title": "Quantitative Researcher Intern",
-        "locations": [
-            "New Jersey"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753287261942
     }
 ]
