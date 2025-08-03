@@ -1,5 +1,20 @@
 [
     {
+        "_id": "688cd243ac1a7d0f7dc88ef6",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754059331132
+    },
+    {
         "_id": "688cbbe1ac1a7d0f7dc88ef5",
         "company": "Asana",
         "company_url": "https://grnh.se/f78375ba1",
@@ -2297,20 +2312,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753204109150
-    },
-    {
-        "_id": "687fc50ecf97daf6510357a5",
-        "company": "U.S. Bank",
-        "company_url": "",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Brookfield, Wisconsin"
-        ],
-        "apply_links": {
-            "official": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1_2025-0016515-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753203982284
     }
 ]
