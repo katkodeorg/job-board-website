@@ -1,5 +1,50 @@
 [
     {
+        "_id": "688d3fdde24757885906cbb9",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754087389791
+    },
+    {
+        "_id": "688d3f3be24757885906cbb8",
+        "company": "DV Trading",
+        "company_url": "https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company",
+        "title": "2026 Summer Internship - Software Development - DV Commodities",
+        "locations": [
+            "NYC"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/ae75de32-932b-4aaa-9376-cc6899f27e7c?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754087227248
+    },
+    {
+        "_id": "688d3f3ae24757885906cbb7",
+        "company": "DV Trading",
+        "company_url": "https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company",
+        "title": "2026 Summer Internship - Software Development - DV Commodities",
+        "locations": [
+            "London, UK"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/dvtrading/jobs/4592920005?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/b2dd48be-2d59-4034-abba-cb0e05dfdea7?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754087226566
+    },
+    {
         "_id": "688d36bee24757885906cbb6",
         "company": "Palantir",
         "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
@@ -2274,50 +2319,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753362021958
-    },
-    {
-        "_id": "68822e65103f5aeda72f69f8",
-        "company": "Blockhouse",
-        "company_url": "https://blockhouse.app/",
-        "title": "Quantitative Research Internship",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753362021234
-    },
-    {
-        "_id": "68813c0364c6fc38c9e29d73",
-        "company": "Castleton Commodities International",
-        "company_url": "",
-        "title": "GenAI Intern",
-        "locations": [
-            "Houston, TX"
-        ],
-        "apply_links": {
-            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753299971320
-    },
-    {
-        "_id": "688138d564c6fc38c9e29d72",
-        "company": "Castleton Commodities International",
-        "company_url": "",
-        "title": "Data Science ML Intern",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "apply_links": {
-            "official": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753299157385
     }
 ]
