@@ -1,5 +1,144 @@
 [
     {
+        "_id": "688f8b2d2b1d20aaf8323b49",
+        "company": "Huron",
+        "company_url": "",
+        "title": "AI Engineer (Associate) - Remote",
+        "locations": [
+            "Chicago",
+            "Illinois"
+        ],
+        "apply_links": {
+            "official": "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/AI-Engineer--Associate----Remote_JR-0011784",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237741020
+    },
+    {
+        "_id": "688f8b2c2b1d20aaf8323b48",
+        "company": "Moog Inc.",
+        "company_url": "",
+        "title": "Eng., Assc.",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Eng--Assc_R-25-13250",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237740337
+    },
+    {
+        "_id": "688f8b2b2b1d20aaf8323b47",
+        "company": "Seattle Children's",
+        "company_url": "",
+        "title": "ACL1 Research Scientist I",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://seattlechildrens.wd5.myworkdayjobs.com/en-US/External/job/Seattle-WA/ACL1-Research-Scientist-I_R2512534",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237739674
+    },
+    {
+        "_id": "688f8b2a2b1d20aaf8323b46",
+        "company": "CrowdStrike",
+        "company_url": "",
+        "title": "Atlassian Systems Engineer (Remote)",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-DevOps-Engineer--Remote-_R22636",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237738864
+    },
+    {
+        "_id": "688f8b2a2b1d20aaf8323b45",
+        "company": "PayPal",
+        "company_url": "",
+        "title": "Associate Engineer \u2013 Full Stack",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Associate-Engineer---Full-Stack_R0126262",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237738164
+    },
+    {
+        "_id": "688f8b292b1d20aaf8323b44",
+        "company": "Goldman Sachs",
+        "company_url": "",
+        "title": "Cloud Engineer - Associate - Dallas - Global Banking & Markets",
+        "locations": [
+            "Dallas, Texas"
+        ],
+        "apply_links": {
+            "official": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/152248",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237737493
+    },
+    {
+        "_id": "688f8b282b1d20aaf8323b43",
+        "company": "Nokia",
+        "company_url": "",
+        "title": "Jr. Platform Test Automation Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/23144",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237736799
+    },
+    {
+        "_id": "688f8a932b1d20aaf8323b42",
+        "company": "TikTok",
+        "company_url": "",
+        "title": "Data Engineer Intern (TikTok-Privacy and Security-Data Infra) - 2026 Summer(BS/MS)",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://lifeattiktok.com/search/7533507946605873416",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237587992
+    },
+    {
+        "_id": "688f8a932b1d20aaf8323b41",
+        "company": "JPMorgan Chase & Co.",
+        "company_url": "",
+        "title": "2025 Code for Good Hackathon - Software Engineer Program - Summer Internship - United States",
+        "locations": [
+            "Austin",
+            "Texas"
+        ],
+        "apply_links": {
+            "official": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210648143",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754237587311
+    },
+    {
         "_id": "688f5f002b1d20aaf8323b40",
         "company": "RippleMatch",
         "company_url": "https://ripplematch.com",
@@ -2202,140 +2341,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753944531573
-    },
-    {
-        "_id": "688b08d8db69e29dece9950e",
-        "company": "Northrop Grumman",
-        "company_url": "",
-        "title": "Modeling and Simulation Engineer- level 1/2- (AHT)",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Modeling-and-Simulation-Engineer--level-1-2---AHT-_R10202089",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942232251
-    },
-    {
-        "_id": "688b08d7db69e29dece9950d",
-        "company": "WEX",
-        "company_url": "",
-        "title": "Junior Software Development Engineer",
-        "locations": [
-            "Colorado"
-        ],
-        "apply_links": {
-            "official": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Junior-Software-Development-Engineer_R18744",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942231557
-    },
-    {
-        "_id": "688b08d6db69e29dece9950c",
-        "company": "McKesson",
-        "company_url": "",
-        "title": "Sr Associate Software Engineer",
-        "locations": [
-            "Columbus, Ohio"
-        ],
-        "apply_links": {
-            "official": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Columbus-OH-USA---910-John-Street-CMM-Main-Campus-C317/Sr-Associate-Software-Engineer_JR0132751",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942230894
-    },
-    {
-        "_id": "688b08d6db69e29dece9950b",
-        "company": "LSEG",
-        "company_url": "",
-        "title": "Research Analyst (Quantitative, Data)",
-        "locations": [
-            "Charlotte, North Carolina"
-        ],
-        "apply_links": {
-            "official": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Charlotte-United-States/Research-Analyst--Quantitative--Data-_R0108232-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942230069
-    },
-    {
-        "_id": "688b08d5db69e29dece9950a",
-        "company": "Teracore",
-        "company_url": "",
-        "title": "Junior Data Analyst",
-        "locations": [
-            "Maryland"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/teracore/jobs/5432571004",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753942229266
-    },
-    {
-        "_id": "6887a1a12d248ded74d7ac73",
-        "company": "Meta",
-        "company_url": "",
-        "title": "Research Scientist Intern, Holography & Material (PhD)",
-        "locations": [
-            "Redmond, Washington"
-        ],
-        "apply_links": {
-            "official": "https://www.metacareers.com/jobs/1389365005469852/",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719201159
-    },
-    {
-        "_id": "6887a1a02d248ded74d7ac72",
-        "company": "CadMakers",
-        "company_url": "",
-        "title": "Junior Software Developer Intern (Co-op)",
-        "locations": [
-            "Burnaby, British Columbia"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/1549011D69/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719200462
-    },
-    {
-        "_id": "6887a19f2d248ded74d7ac71",
-        "company": "Plymouth Rock Assurance",
-        "company_url": "",
-        "title": "Product Analyst Intern",
-        "locations": [
-            "Boston, Massachusetts"
-        ],
-        "apply_links": {
-            "official": "https://myjobs.adp.com/plymouthrock/cx/job-details?reqId=5001138686300",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719199793
-    },
-    {
-        "_id": "6887a19e2d248ded74d7ac70",
-        "company": "Accenture",
-        "company_url": "",
-        "title": "Center for Advanced AI - Applied Research Scientist - Fall Graduate Intern - NAELFY26",
-        "locations": [
-            "Mountain View, California"
-        ],
-        "apply_links": {
-            "official": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753719198692
     }
 ]
