@@ -1,5 +1,206 @@
 [
     {
+        "_id": "688f5f002b1d20aaf8323b40",
+        "company": "RippleMatch",
+        "company_url": "https://ripplematch.com",
+        "title": "Machine Learning Intern - application via RippleMatch",
+        "locations": [
+            "Denver, CO"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8103814002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754226432004
+    },
+    {
+        "_id": "688f5eff2b1d20aaf8323b3f",
+        "company": "RippleMatch",
+        "company_url": "https://ripplematch.com",
+        "title": "Machine Learning Intern - application via RippleMatch",
+        "locations": [
+            "Austin, TX"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8103830002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754226431309
+    },
+    {
+        "_id": "688f5efe2b1d20aaf8323b3e",
+        "company": "RippleMatch",
+        "company_url": "https://ripplematch.com",
+        "title": "Machine Learning Intern - application via RippleMatch",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8103818002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754226430527
+    },
+    {
+        "_id": "688f5efd2b1d20aaf8323b3d",
+        "company": "RippleMatch",
+        "company_url": "https://ripplematch.com",
+        "title": "Machine Learning Intern - application via RippleMatch",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8103819002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754226429879
+    },
+    {
+        "_id": "688f5efd2b1d20aaf8323b3c",
+        "company": "RippleMatch",
+        "company_url": "https://ripplematch.com",
+        "title": "Machine Learning Intern - application via RippleMatch",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8103815002",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754226429168
+    },
+    {
+        "_id": "688f05562b1d20aaf8323b3b",
+        "company": "Medtronic",
+        "company_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2026_R40546-1?utm_source=ouckah",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN"
+        ],
+        "apply_links": {
+            "official": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2026_R40546-1?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203478523
+    },
+    {
+        "_id": "688f05552b1d20aaf8323b3a",
+        "company": "Medtronic",
+        "company_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/IT-Intern-Summer-2026_R40583-1?utm_source=ouckah",
+        "title": "IT Intern",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "apply_links": {
+            "official": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/IT-Intern-Summer-2026_R40583-1?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203477820
+    },
+    {
+        "_id": "688f05552b1d20aaf8323b39",
+        "company": "Medtronic",
+        "company_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/R-D-Engineering-Intern---Summer-2026_R40521-1?utm_source=ouckah",
+        "title": "R&D Engineering Intern",
+        "locations": [
+            "Minneapolis, MN",
+            "Tempe, AZ",
+            "Santa Rosa, CA",
+            "Lafayette, CO",
+            "Boulder, CO"
+        ],
+        "apply_links": {
+            "official": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/R-D-Engineering-Intern---Summer-2026_R40521-1?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203477187
+    },
+    {
+        "_id": "688f05542b1d20aaf8323b38",
+        "company": "Otis",
+        "company_url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057?utm_source=ouckah",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "apply_links": {
+            "official": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203476487
+    },
+    {
+        "_id": "688f05532b1d20aaf8323b37",
+        "company": "Ramp",
+        "company_url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa?utm_source=ouckah",
+        "title": "Software Engineer Intern, Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203475807
+    },
+    {
+        "_id": "688f05532b1d20aaf8323b36",
+        "company": "Ramp",
+        "company_url": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f?utm_source=ouckah",
+        "title": "Software Engineer Intern, Backend",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203475094
+    },
+    {
+        "_id": "688f05522b1d20aaf8323b35",
+        "company": "TikTok",
+        "company_url": "https://lifeattiktok.com/search/7533388869200333074?spread=XKM9ZXE&utm_source=ouckah",
+        "title": "Software Engineer Intern, Data Ecosystem",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "apply_links": {
+            "official": "https://lifeattiktok.com/search/7533388869200333074?spread=XKM9ZXE&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754203474453
+    },
+    {
+        "_id": "688f04ce2b1d20aaf8323b34",
+        "company": "TikTok",
+        "company_url": "",
+        "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "apply_links": {
+            "official": "https://lifeattiktok.com/search/7532436539684702471?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754203342626
+    },
+    {
         "_id": "688e37c435d2a9f89ef0e47e",
         "company": "BMO",
         "company_url": "",
@@ -2136,203 +2337,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753719198692
-    },
-    {
-        "_id": "6887a19d2d248ded74d7ac6f",
-        "company": "Skillsoft",
-        "company_url": "",
-        "title": "Summer Intern - AI Product Manager",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://www.skillsoft.com/about/job/apply?id=4589662005&gh_jid=4589662005",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753719197694
-    },
-    {
-        "_id": "68869c0b399af300bc04cca0",
-        "company": "Amentum",
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "apply_links": {
-            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142816?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/c1ce3e50-5855-4076-96b9-510aa65f7a03?utm_source=GHList"
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753652235463
-    },
-    {
-        "_id": "68869c0a399af300bc04cc9f",
-        "company": "Amentum",
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "apply_links": {
-            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142814?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/b12a8329-3617-4c19-8314-a864143ec31a?utm_source=GHList"
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753652234439
-    },
-    {
-        "_id": "68869c09399af300bc04cc9e",
-        "company": "Amentum",
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "apply_links": {
-            "official": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142817?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/91e3c508-4b87-475d-9cb1-3688326bb405?utm_source=GHList"
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753652233443
-    },
-    {
-        "_id": "68869c07399af300bc04cc9d",
-        "company": "Maybern",
-        "company_url": "https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer \u2013 New Grad",
-        "locations": [
-            "NYC"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/1dbd172a-5bd7-46cc-bdeb-651eb76a9d90?utm_source=GHList"
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753652231762
-    },
-    {
-        "_id": "6883c4063272fb4b245f0977",
-        "company": "Qualtrics",
-        "company_url": "https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I - Foundation",
-        "locations": [
-            "Provo, UT"
-        ],
-        "apply_links": {
-            "official": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"
-        },
-        "posted_days_ago": 6,
-        "timestamp": 1753465862022
-    },
-    {
-        "_id": "6883c4053272fb4b245f0976",
-        "company": "mthree",
-        "company_url": "https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753465861049
-    },
-    {
-        "_id": "68831e73b4c6aa817875d362",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753423475748
-    },
-    {
-        "_id": "68831e72b4c6aa817875d361",
-        "company": "Coalition",
-        "company_url": "",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "apply_links": {
-            "official": "https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1753423474764
-    },
-    {
-        "_id": "68831e71b4c6aa817875d360",
-        "company": "Franklin St",
-        "company_url": "https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "apply_links": {
-            "official": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/c3f9ea9a-bc61-4ef2-9206-158a41f33374?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753423473910
-    },
-    {
-        "_id": "6882a095e8635f7d92cd0b9b",
-        "company": "Inogen",
-        "company_url": "",
-        "title": "Firmware Engineering Intern",
-        "locations": [
-            "Plano, TX"
-        ],
-        "apply_links": {
-            "official": "https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753391253402
-    },
-    {
-        "_id": "6882a094e8635f7d92cd0b9a",
-        "company": "Virtu",
-        "company_url": "",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Austin, TX",
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/virtu/jobs/7848570002?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753391252704
-    },
-    {
-        "_id": "6882a093e8635f7d92cd0b99",
-        "company": "Virtu",
-        "company_url": "",
-        "title": "Quantitative Trading Intern",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/virtu/jobs/7848562002?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753391251861
     }
 ]
