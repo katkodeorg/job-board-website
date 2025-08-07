@@ -1,5 +1,20 @@
 [
     {
+        "_id": "689231cd9004193f1967848a",
+        "company": "ByteDance",
+        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer Intern - Payment Architecture - Global Payment",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7533369790536141063/detail?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/174a07c8-fbf8-4230-a424-5d346a3ca5ba?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754411469663
+    },
+    {
         "_id": "68922e979004193f19678489",
         "company": "Talos",
         "company_url": "",
@@ -2329,21 +2344,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753978696439
-    },
-    {
-        "_id": "688b9747eb1d0ba518394d46",
-        "company": "Radix Trading",
-        "company_url": "",
-        "title": "Quantitative Researcher (Full-Time - Master\u2019s/Bachelor\u2019s)",
-        "locations": [
-            "Amsterdam",
-            "North Holland"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/radixuniversity/jobs/7841868002",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978695738
     }
 ]
