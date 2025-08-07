@@ -1,5 +1,310 @@
 [
     {
+        "_id": "6892025c9004193f1967847b",
+        "company": "Deluxe",
+        "company_url": "https://www.deluxe.com",
+        "title": "AI Strategy & Innovation Intern",
+        "locations": [
+            "US",
+            "CA",
+            "Burbank"
+        ],
+        "apply_links": {
+            "official": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/AI-Strategy---Innovation-Intern_R0015505",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754399324351
+    },
+    {
+        "_id": "6892025b9004193f1967847a",
+        "company": "Altruist",
+        "company_url": "https://altruist.com",
+        "title": "Quantitative Engineering Intern - Summer 2026",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "apply_links": {
+            "official": "https://altruist.com/join-altruist/5601805004?gh_jid=5601805004",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754399323680
+    },
+    {
+        "_id": "6892025a9004193f19678479",
+        "company": "Altruist",
+        "company_url": "https://altruist.com",
+        "title": "Data Science Intern - Summer 2026",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "apply_links": {
+            "official": "https://altruist.com/join-altruist/5601854004?gh_jid=5601854004",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754399322543
+    },
+    {
+        "_id": "689202599004193f19678478",
+        "company": "Altruist",
+        "company_url": "https://altruist.com",
+        "title": "Data Science Intern - Summer 2026",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "apply_links": {
+            "official": "https://altruist.com/join-altruist/5601855004?gh_jid=5601855004",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754399321798
+    },
+    {
+        "_id": "689202599004193f19678477",
+        "company": "Altruist",
+        "company_url": "https://altruist.com",
+        "title": "Quantitative Engineering Intern - Summer 2026",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "apply_links": {
+            "official": "https://altruist.com/join-altruist/5601829004?gh_jid=5601829004",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754399321075
+    },
+    {
+        "_id": "6891e41e9004193f19678476",
+        "company": "BRM",
+        "company_url": "https://simplify.jobs/c/BRM?utm_source=GHList&utm_medium=company",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "SF"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/59f2623e-1e7c-4a2c-b675-38ba8bdba66f?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754391582121
+    },
+    {
+        "_id": "6891c3369004193f19678475",
+        "company": "Ramp",
+        "company_url": "",
+        "title": "New Grad 2026: Software Engineer - Backend",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1754383158072
+    },
+    {
+        "_id": "6891c3359004193f19678474",
+        "company": "Ramp",
+        "company_url": "",
+        "title": "New Grad 2026: Software Engineer - Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1754383157088
+    },
+    {
+        "_id": "6891c3349004193f19678473",
+        "company": "StubHub",
+        "company_url": "",
+        "title": "Associate Product Manager - Consumer Experience",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101?utm_source=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1754383156431
+    },
+    {
+        "_id": "6891c3339004193f19678472",
+        "company": "Reddit",
+        "company_url": "",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Los Angeles, CA"
+        ],
+        "apply_links": {
+            "official": "https://app.ripplematch.com/v2/public/job/340fb9c1?tl=505c5953&utm_source=cvrve&ref=cvrve",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754383155767
+    },
+    {
+        "_id": "6891ba879004193f19678471",
+        "company": "Marquee Insurance Group",
+        "company_url": "",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754380935715
+    },
+    {
+        "_id": "6891b4969004193f19678470",
+        "company": "GE Healthcare",
+        "company_url": "https://careers.gehealthcare.com/global/en/job/R4027636/Information-Technology-Development-Program-Internship?utm_source=ouckah",
+        "title": "Information Technology Development Program",
+        "locations": [
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://careers.gehealthcare.com/global/en/job/R4027636/Information-Technology-Development-Program-Internship?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754379414537
+    },
+    {
+        "_id": "6891b4129004193f1967846f",
+        "company": "ByteDance",
+        "company_url": "",
+        "title": "3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7532618536427391240/detail?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379282433
+    },
+    {
+        "_id": "6891b4119004193f1967846e",
+        "company": "ByteDance",
+        "company_url": "",
+        "title": "Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7527836662400026898/detail?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379281685
+    },
+    {
+        "_id": "6891b4109004193f1967846d",
+        "company": "RTX",
+        "company_url": "https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company",
+        "title": "Back End Processing Network Engineer I",
+        "locations": [
+            "Bristol, RI"
+        ],
+        "apply_links": {
+            "official": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/Back-End-Processing-Network-Engineer-I-Portsmouth-RI-Onsite_01784264?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/e8df5761-a982-4af8-8501-5cc4b128d4b1?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379280953
+    },
+    {
+        "_id": "6891b4109004193f1967846c",
+        "company": "Ramp",
+        "company_url": "",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379280269
+    },
+    {
+        "_id": "6891b40f9004193f1967846b",
+        "company": "Ramp",
+        "company_url": "",
+        "title": "Software Engineer - Backend",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379279554
+    },
+    {
+        "_id": "6891b40e9004193f1967846a",
+        "company": "SimIS",
+        "company_url": "",
+        "title": "Junior Software Developer - Modeling & Simulation",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "apply_links": {
+            "official": "https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379278823
+    },
+    {
+        "_id": "6891b3719004193f19678469",
+        "company": "EPIC",
+        "company_url": "",
+        "title": "Student Associate - Software Engineer",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "apply_links": {
+            "official": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379121136
+    },
+    {
+        "_id": "6891b3709004193f19678468",
+        "company": "Capital One",
+        "company_url": "https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company",
+        "title": "Cyber Security Internship Program",
+        "locations": [
+            "Mclean, VA",
+            "Plano, TX"
+        ],
+        "apply_links": {
+            "official": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754379120421
+    },
+    {
         "_id": "689124a676bdd8849345fc07",
         "company": "DV Trading",
         "company_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005?utm_source=ouckah",
@@ -2040,316 +2345,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1753977737054
-    },
-    {
-        "_id": "688b9388eb1d0ba518394d37",
-        "company": "ByteDance",
-        "company_url": "https://jobs.bytedance.com",
-        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
-        "locations": [
-            "Seattle",
-            "Washington"
-        ],
-        "apply_links": {
-            "official": "https://jobs.bytedance.com/en/position/7262831263546394939/detail",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753977736258
-    },
-    {
-        "_id": "688b859aeb1d0ba518394d36",
-        "company": "General Dynamics",
-        "company_url": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity?utm_source=ouckah",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "apply_links": {
-            "official": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753974170298
-    },
-    {
-        "_id": "688b8599eb1d0ba518394d35",
-        "company": "New York Life Insurance",
-        "company_url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance&utm_source=ouckah",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753974169600
-    },
-    {
-        "_id": "688b7779eb1d0ba518394d34",
-        "company": "Esri",
-        "company_url": "https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company",
-        "title": ".NET/C# Software Development Engineer I - SDK",
-        "locations": [
-            "West Redlands",
-            "Redlands, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.esri.com/careers/4803095007?gh_jid=4803095007&utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/36e74f92-9b86-4fd3-ad81-cc172200ff92?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753970553759
-    },
-    {
-        "_id": "688b6952eb1d0ba518394d33",
-        "company": "DoorDash",
-        "company_url": "https://www.doordash.com",
-        "title": "Machine Learning Intern - Master\u2019s only - Fall 2025",
-        "locations": [
-            "San Francisco, CA",
-            "Seattle, WA",
-            "Sunnyvale, CA"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/doordashusa/jobs/7108147",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753966930646
-    },
-    {
-        "_id": "688b6951eb1d0ba518394d32",
-        "company": "DoorDash",
-        "company_url": "https://www.doordash.com",
-        "title": "Machine Learning Intern - PhD only - Fall 2025",
-        "locations": [
-            "San Francisco, CA",
-            "Seattle, WA",
-            "Sunnyvale, CA"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/doordashusa/jobs/7117825",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753966929655
-    },
-    {
-        "_id": "688b2246eb1d0ba518394d31",
-        "company": "Leidos",
-        "company_url": "https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Gaithersburg, MD"
-        ],
-        "apply_links": {
-            "official": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/2807c62b-1f19-4c36-ad32-40967e3edbd7?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753948742510
-    },
-    {
-        "_id": "688b1705eb1d0ba518394d30",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7532631803707738376?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-        "title": "New Grad 2026: Software Engineer Graduate Live-Foundation-Ecosystem",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7532631803707738376?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945861240
-    },
-    {
-        "_id": "688b1704eb1d0ba518394d2f",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7532436539684702471?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-        "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7532436539684702471?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945860371
-    },
-    {
-        "_id": "688b1703eb1d0ba518394d2e",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7531158608336242962?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-        "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7531158608336242962?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945859566
-    },
-    {
-        "_id": "688b1702eb1d0ba518394d2d",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-        "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945858570
-    },
-    {
-        "_id": "688b1701eb1d0ba518394d2c",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7532240517976721671?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-        "title": "New Grad 2026: Machine Learning Engineer Graduate (Lead Ads Technology)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7532240517976721671?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945857239
-    },
-    {
-        "_id": "688b1700eb1d0ba518394d2b",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-        "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945856126
-    },
-    {
-        "_id": "688b16ffeb1d0ba518394d2a",
-        "company": "Meta",
-        "company_url": "https://www.metacareers.com/jobs/609052015548260?utm_source=cvrve",
-        "title": "New Grad 2026: Product Security Engineer",
-        "locations": [
-            "Bellevue, WA",
-            "Menlo Park, CA"
-        ],
-        "apply_links": {
-            "official": "https://www.metacareers.com/jobs/609052015548260?utm_source=cvrve",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753945855344
-    },
-    {
-        "_id": "688b167beb1d0ba518394d29",
-        "company": "KBR",
-        "company_url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933?utm_source=ouckah",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Sioux Falls, SD"
-        ],
-        "apply_links": {
-            "official": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945723871
-    },
-    {
-        "_id": "688b167beb1d0ba518394d28",
-        "company": "Leonardo DRS",
-        "company_url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1311812900/?jobPipeline=Indeed&utm_source=ouckah",
-        "title": "Embedded Software Engineer Intern",
-        "locations": [
-            "Bridgeton, MO"
-        ],
-        "apply_links": {
-            "official": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1311812900/?jobPipeline=Indeed&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945723172
-    },
-    {
-        "_id": "688b167aeb1d0ba518394d27",
-        "company": "Neuralink",
-        "company_url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003?utm_source=ouckah",
-        "title": "Firmware Engineer Intern",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945722377
-    },
-    {
-        "_id": "688b1679eb1d0ba518394d26",
-        "company": "PNC",
-        "company_url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780?utm_source=ouckah",
-        "title": "Quantitative Analytics Intern",
-        "locations": [
-            "Pittsburgh, PA",
-            "Tysons, VA"
-        ],
-        "apply_links": {
-            "official": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945721554
-    },
-    {
-        "_id": "688b1678eb1d0ba518394d25",
-        "company": "PNC",
-        "company_url": "https://careers.pnc.com/global/en/job/PNC1GLOBALR196693/Technology-Summer-Intern?utm_source=Indeed&utm_medium=symphonytalent-jobads&utm_campaign=Students%20&%20Graduates&utm_content=Technology%20Summer%20Intern&utm_term=R196693&utm_source=ouckah",
-        "title": "Technology Intern",
-        "locations": [
-            "Pittsburgh, PA",
-            "Birmingham, AL",
-            "Cleveland, OH",
-            "Dallas, TX"
-        ],
-        "apply_links": {
-            "official": "https://careers.pnc.com/global/en/job/PNC1GLOBALR196693/Technology-Summer-Intern?utm_source=Indeed&utm_medium=symphonytalent-jobads&utm_campaign=Students%20&%20Graduates&utm_content=Technology%20Summer%20Intern&utm_term=R196693&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945720773
-    },
-    {
-        "_id": "688b1678eb1d0ba518394d24",
-        "company": "Reality Defender",
-        "company_url": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440?utm_source=ouckah",
-        "title": "Computer Vision Intern",
-        "locations": [
-            "New York City, NY"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1753945720070
     }
 ]
