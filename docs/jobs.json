@@ -1,5 +1,117 @@
 [
     {
+        "_id": "68922e979004193f19678489",
+        "company": "Talos",
+        "company_url": "",
+        "title": "Software Engineer Intern, Front-End, PMS",
+        "locations": [
+            "New York City",
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/talos-trading/2db01769-8f00-4652-b790-b7cff80bc891",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410647081
+    },
+    {
+        "_id": "68922e969004193f19678488",
+        "company": "TikTok",
+        "company_url": "",
+        "title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics) - 2026 Summer (BS/MS)",
+        "locations": [
+            "San Jose",
+            "California"
+        ],
+        "apply_links": {
+            "official": "https://lifeattiktok.com/search/7533029779479791890",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410646398
+    },
+    {
+        "_id": "68922e959004193f19678487",
+        "company": "Talos",
+        "company_url": "",
+        "title": "Software Engineer Intern, Backend, PMS",
+        "locations": [
+            "New York City",
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/talos-trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410645513
+    },
+    {
+        "_id": "68922e949004193f19678486",
+        "company": "Talos",
+        "company_url": "",
+        "title": "Software Engineer Intern, Backend, Dealer",
+        "locations": [
+            "New York City",
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/talos-trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410644514
+    },
+    {
+        "_id": "68922e939004193f19678485",
+        "company": "Environmental Defense Fund",
+        "company_url": "",
+        "title": "Data Analyst Intern, Methane Science",
+        "locations": [
+            "Remote",
+            ""
+        ],
+        "apply_links": {
+            "official": "https://osv-edf.wd5.myworkdayjobs.com/en-US/EDF_External_Careers/job/Remote---US-Home/Data-Analyst-Intern--Methane-Science_REQ-002029",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410643169
+    },
+    {
+        "_id": "68922e919004193f19678484",
+        "company": "Pratt & Whitney Canada",
+        "company_url": "",
+        "title": "2026 Return Intern - Raytheon Software Engineer Intern (On-site)",
+        "locations": [
+            "Fort Wayne",
+            "Indiana"
+        ],
+        "apply_links": {
+            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Return-Intern---Raytheon-Software-Engineer-Intern--On-site-_01784206",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410641954
+    },
+    {
+        "_id": "68922e919004193f19678483",
+        "company": "ConnectPrep",
+        "company_url": "",
+        "title": "Data Analyst Internship",
+        "locations": [
+            "Westport",
+            "Connecticut"
+        ],
+        "apply_links": {
+            "official": "https://apply.workable.com/j/8E95589DFE/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754410641319
+    },
+    {
         "_id": "68922b7c9004193f19678482",
         "company": "KBR, Inc.",
         "company_url": "",
@@ -2233,115 +2345,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1753978695738
-    },
-    {
-        "_id": "688b9746eb1d0ba518394d45",
-        "company": "HII",
-        "company_url": "",
-        "title": "Cyber Security Engineer - COBRA",
-        "locations": [
-            "Albuquerque",
-            "New Mexico"
-        ],
-        "apply_links": {
-            "official": "https://jobs.hii-tsd.com/job/Albuquerque%2C-NM-Cyber-Security-Engineer-COBRA-New/1310566700/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978694992
-    },
-    {
-        "_id": "688b96afeb1d0ba518394d44",
-        "company": "Leonardo DRS",
-        "company_url": "",
-        "title": "Systems Engineer Intern",
-        "locations": [
-            "Bridgeton",
-            "Missouri"
-        ],
-        "apply_links": {
-            "official": "https://careers.leonardodrs.com/job/Bridgeton-Systems-Engineer-Intern-MO-63044/1312553700/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978543084
-    },
-    {
-        "_id": "688b96aeeb1d0ba518394d43",
-        "company": "Pratt & Whitney Canada",
-        "company_url": "",
-        "title": "2026 Returning Intern \u2013 Quality Engineer Intern",
-        "locations": [
-            "Louisville",
-            "Kentucky"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/KY201-RMS-Louisville-6201-Strawberry-Lane-Louisville-KY-40214-Louisville-KY-40202-USA/XMLNAME-2026-Returning-Intern---Quality-Engineer-Intern_01782888",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978542015
-    },
-    {
-        "_id": "688b96adeb1d0ba518394d42",
-        "company": "BMW Group",
-        "company_url": "",
-        "title": "Data Analyst Intern, Controlling (12 Months)",
-        "locations": [
-            "Richmond Hill",
-            "Ontario"
-        ],
-        "apply_links": {
-            "official": "https://jobs.bmwgroup.com/job/Richmond-Hill-Data-Analyst-Intern%2C-Controlling-%2812-Months%29-ON/1230649501/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978541226
-    },
-    {
-        "_id": "688b96aceb1d0ba518394d41",
-        "company": "HII",
-        "company_url": "",
-        "title": "Data Scientist - 24706 (Engineering Intern 4)",
-        "locations": [
-            "Massachusetts"
-        ],
-        "apply_links": {
-            "official": "https://jobs.hii-tsd.com/job/Pocasset%2C-MA-Data-Scientist-24706-%28Engineering-Intern-4%29-Mass/1312383400/",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978540466
-    },
-    {
-        "_id": "688b96abeb1d0ba518394d40",
-        "company": "Nokia",
-        "company_url": "",
-        "title": "Automation Engineer Co-op/Intern",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/20101",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978539626
-    },
-    {
-        "_id": "688b96aaeb1d0ba518394d3f",
-        "company": "HP",
-        "company_url": "",
-        "title": "Software Developer Internship",
-        "locations": [
-            "Houston",
-            "Texas"
-        ],
-        "apply_links": {
-            "official": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1753978538959
     }
 ]
