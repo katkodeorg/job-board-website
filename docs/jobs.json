@@ -1,5 +1,80 @@
 [
     {
+        "_id": "6893b27c81e03108c8aa8784",
+        "company": "Palantir",
+        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754509948121
+    },
+    {
+        "_id": "6893b27b81e03108c8aa8783",
+        "company": "Gimlet Labs",
+        "company_url": "https://simplify.jobs/c/Gimlet-Labs?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754509947382
+    },
+    {
+        "_id": "6893b0cc05b9976f73e4bf1a",
+        "company": "HD Supply",
+        "company_url": "https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology?utm_source=ouckah",
+        "title": "Information Technology Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "apply_links": {
+            "official": "https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1754509516566
+    },
+    {
+        "_id": "6893b0cb05b9976f73e4bf19",
+        "company": "Confluent",
+        "company_url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application?utm_source=ouckah",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754509515863
+    },
+    {
+        "_id": "6893b0cb05b9976f73e4bf18",
+        "company": "Roblox",
+        "company_url": "https://careers.roblox.com/jobs/7114765?fbclid=PAZXh0bgNhZW0CMTEAAacJ6fn8yHQ6R-Xp_hftOF2j9kC4QiKk5Q_8hTSWMPHEkd9N_hiA62Myxz0ULA_aem_yhDi7BqGgqyKbKlnOnSspw&utm_source=ouckah",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "apply_links": {
+            "official": "https://careers.roblox.com/jobs/7114765?fbclid=PAZXh0bgNhZW0CMTEAAacJ6fn8yHQ6R-Xp_hftOF2j9kC4QiKk5Q_8hTSWMPHEkd9N_hiA62Myxz0ULA_aem_yhDi7BqGgqyKbKlnOnSspw&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754509515182
+    },
+    {
         "_id": "6893afb705b9976f73e4bf17",
         "company": "Talos",
         "company_url": "https://talos.com",
@@ -2258,82 +2333,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1754064530760
-    },
-    {
-        "_id": "688ce367ac1a7d0f7dc88ef8",
-        "company": "ByteDance",
-        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
-        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "apply_links": {
-            "official": "https://jobs.bytedance.com/en/position/7533346574367377672/detail?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/082ca7b9-5288-4b74-98f7-b5c17bef229f?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754063719240
-    },
-    {
-        "_id": "688ce036ac1a7d0f7dc88ef7",
-        "company": "ByteDance",
-        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
-        "title": "Frontend Software Engineer Intern - Global E-Commerce",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "apply_links": {
-            "official": "https://jobs.bytedance.com/en/position/7533346008655825159/detail?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/6ab6835f-e402-420e-b119-a7c369286ab4?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754062902931
-    },
-    {
-        "_id": "688cd243ac1a7d0f7dc88ef6",
-        "company": "Palantir",
-        "company_url": "https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer \u2013 New Grad - Infrastructure",
-        "locations": [
-            "London, UK"
-        ],
-        "apply_links": {
-            "official": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754059331132
-    },
-    {
-        "_id": "688cbbe1ac1a7d0f7dc88ef5",
-        "company": "Asana",
-        "company_url": "https://grnh.se/f78375ba1",
-        "title": "Data Science Intern",
-        "locations": [
-            "New York City"
-        ],
-        "apply_links": {
-            "official": "https://www.asana.com/jobs/apply/7071272?gh_jid=7071272",
-            "simplify": ""
-        },
-        "posted_days_ago": 2,
-        "timestamp": 1754053601406
-    },
-    {
-        "_id": "688cbbe0ac1a7d0f7dc88ef4",
-        "company": "GDIT",
-        "company_url": "https://www.gdit.com",
-        "title": "Summer 2026 Artificial Intelligence/Machine Learning Associate Internship",
-        "locations": [
-            "USA",
-            "VA",
-            "Falls Church"
-        ],
-        "apply_links": {
-            "official": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754053600702
     }
 ]
