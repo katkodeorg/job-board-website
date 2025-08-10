@@ -1,5 +1,65 @@
 [
     {
+        "_id": "68963d680f00fc2459afebc9",
+        "company": "Detroit Defense",
+        "company_url": "",
+        "title": "Software Test Engineer",
+        "locations": [
+            "Troy, MI"
+        ],
+        "apply_links": {
+            "official": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754676584152
+    },
+    {
+        "_id": "68963d670f00fc2459afebc8",
+        "company": "Cook Systems",
+        "company_url": "",
+        "title": "Software Developer",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754676583408
+    },
+    {
+        "_id": "68963d660f00fc2459afebc7",
+        "company": "NVIDIA",
+        "company_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+        "title": "Research Scientist, Robotics Research - New College Grad 2025",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "apply_links": {
+            "official": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754676582642
+    },
+    {
+        "_id": "68963d650f00fc2459afebc6",
+        "company": "TikTok",
+        "company_url": "",
+        "title": "SDET, Software Development Engineer in Test",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "apply_links": {
+            "official": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754676581907
+    },
+    {
         "_id": "68963cc60f00fc2459afebc5",
         "company": "Tesla",
         "company_url": "https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company",
@@ -2250,69 +2310,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1754323698328
-    },
-    {
-        "_id": "6890daf176bdd8849345fbfe",
-        "company": "Uncountable",
-        "company_url": "",
-        "title": "Product Manager (New Grad)",
-        "locations": [
-            "San Francisco",
-            "California"
-        ],
-        "apply_links": {
-            "official": "https://jobs.lever.co/uncountable/0cccea19-b6b7-445b-8895-36b9fc0e502e",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754323697477
-    },
-    {
-        "_id": "6890daf076bdd8849345fbfd",
-        "company": "Uncountable",
-        "company_url": "",
-        "title": "Scientific Data Engineer",
-        "locations": [
-            "San Francisco",
-            "California"
-        ],
-        "apply_links": {
-            "official": "https://jobs.lever.co/uncountable/f634a632-c93e-4110-8cbf-7fb54b8fe244",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754323696793
-    },
-    {
-        "_id": "6890daf076bdd8849345fbfc",
-        "company": "ITS Logistics, LLC",
-        "company_url": "",
-        "title": "Associate Product Manager",
-        "locations": [
-            "Nevada",
-            "Missouri"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/itslogisticsllc/jobs/4077522008",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754323696135
-    },
-    {
-        "_id": "6890daef76bdd8849345fbfb",
-        "company": "Pratt & Whitney Canada",
-        "company_url": "",
-        "title": "Engineer I: Systems Engineering (Onsite)",
-        "locations": [
-            "East Hartford",
-            "Connecticut"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Engineer-I--Systems-Engineering--Onsite-_01783423",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754323695378
     }
 ]
