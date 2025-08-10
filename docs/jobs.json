@@ -1,5 +1,20 @@
 [
     {
+        "_id": "68963cc60f00fc2459afebc5",
+        "company": "Tesla",
+        "company_url": "https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company",
+        "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "apply_links": {
+            "official": "https://www.tesla.com/careers/search/job/247480?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754676422982
+    },
+    {
         "_id": "689620820f00fc2459afebc4",
         "company": "Blue Origin",
         "company_url": "",
@@ -2299,21 +2314,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1754323695378
-    },
-    {
-        "_id": "6890daee76bdd8849345fbfa",
-        "company": "Boeing",
-        "company_url": "",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Jacksonville",
-            "Florida"
-        ],
-        "apply_links": {
-            "official": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Jacksonville-FL/Associate-Software-Engineer_JR2025463651",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754323694169
     }
 ]
