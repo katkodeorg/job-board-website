@@ -1,5 +1,82 @@
 [
     {
+        "_id": "689753e4d90e409fe79e6a61",
+        "company": "Belvedere Trading",
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply?utm_source=Simplify&ref=Simplify",
+            "simplify": "https://simplify.jobs/p/71cf7b01-0bb3-4b71-bbef-50a29e75910d?utm_source=GHList"
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754747876053
+    },
+    {
+        "_id": "689753e3d90e409fe79e6a60",
+        "company": "Cofluent",
+        "company_url": "",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, Texas",
+            "Remote"
+        ],
+        "apply_links": {
+            "official": "https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a?utm_source=Simplify&ref=Simplify",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1754747875373
+    },
+    {
+        "_id": "689750d3d90e409fe79e6a5f",
+        "company": "Millennium",
+        "company_url": "https://campusjobs.mlp.com/careers?location=New%20York%2C%20New%20York%2C%20United%20States%20of%20America&pid=755944541610&domain=mlp.com&sort_by=relevance&recommended=1&utm_source=ouckah",
+        "title": "Project Management Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://campusjobs.mlp.com/careers?location=New%20York%2C%20New%20York%2C%20United%20States%20of%20America&pid=755944541610&domain=mlp.com&sort_by=relevance&recommended=1&utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754747091846
+    },
+    {
+        "_id": "689750d3d90e409fe79e6a5e",
+        "company": "Notion",
+        "company_url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6?utm_source=ouckah",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754747091165
+    },
+    {
+        "_id": "689750d2d90e409fe79e6a5d",
+        "company": "Xantium",
+        "company_url": "https://www.xantium.com/careers/interns_2026/?utm_source=ouckah",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "apply_links": {
+            "official": "https://www.xantium.com/careers/interns_2026/?utm_source=ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754747090416
+    },
+    {
         "_id": "68963d680f00fc2459afebc9",
         "company": "Detroit Defense",
         "company_url": "",
@@ -2233,82 +2310,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1754342564253
-    },
-    {
-        "_id": "689124a376bdd8849345fc03",
-        "company": "Talos",
-        "company_url": "https://jobs.ashbyhq.com/Talos-Trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1?utm_source=ouckah",
-        "title": "Software Engineer Intern, Backend, Dealer",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/Talos-Trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342563398
-    },
-    {
-        "_id": "689124a276bdd8849345fc02",
-        "company": "Talos",
-        "company_url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00?utm_source=ouckah",
-        "title": "Quantitative Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342562436
-    },
-    {
-        "_id": "689124a176bdd8849345fc01",
-        "company": "TikTok",
-        "company_url": "https://lifeattiktok.com/search/7533029779479791890?spread=XKM9ZXE&utm_source=ouckah",
-        "title": "Software Engineer Intern, Intelligent Creation - Generative AI and Graphics",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7533029779479791890?spread=XKM9ZXE&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342561771
-    },
-    {
-        "_id": "6890f7b076bdd8849345fc00",
-        "company": "Capital One",
-        "company_url": "https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company",
-        "title": "Technology Internship Program - Summer 2026",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "Plano, TX"
-        ],
-        "apply_links": {
-            "official": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754331056659
-    },
-    {
-        "_id": "6890daf276bdd8849345fbff",
-        "company": "Everwatch",
-        "company_url": "",
-        "title": "Software Engineer, Junior",
-        "locations": [
-            "Maryland"
-        ],
-        "apply_links": {
-            "official": "https://everwatch-everwatchsolutions.icims.com/jobs/3178/software-engineer%2c-junior/job?in_iframe=1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754323698328
     }
 ]
