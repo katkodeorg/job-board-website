@@ -1,5 +1,116 @@
 [
     {
+        "_id": "6897ca646d8e94bf8507e5a2",
+        "company": "ByteDance",
+        "company_url": "",
+        "title": "Machine Learning Engineer Intern (E-commerce-Recommendation) - 2026 Start (PhD)",
+        "locations": [
+            "Seattle",
+            "Washington"
+        ],
+        "apply_links": {
+            "official": "https://jobs.bytedance.com/en/position/7535159557922048274/detail",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778212387
+    },
+    {
+        "_id": "6897ca636d8e94bf8507e5a1",
+        "company": "Baird",
+        "company_url": "",
+        "title": "Internship \u2013 Baird Trust Equity Research Analyst (Summer 2026)",
+        "locations": [
+            "Louisville",
+            "Kentucky"
+        ],
+        "apply_links": {
+            "official": "https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/KY-Louisville/Internship---Baird-Trust-Equity-Research-Analyst--Summer-2026-_R2025903-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778211724
+    },
+    {
+        "_id": "6897ca636d8e94bf8507e5a0",
+        "company": "Harris Computer",
+        "company_url": "",
+        "title": "Software Developer, Co-op/Intern",
+        "locations": [
+            "British Columbia"
+        ],
+        "apply_links": {
+            "official": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Developer--Co-op-Intern_R0031202-2",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778211026
+    },
+    {
+        "_id": "6897ca626d8e94bf8507e59f",
+        "company": "Chamberlain Group",
+        "company_url": "",
+        "title": "Software Engineer 1, Front End (Intern Conversion)",
+        "locations": [
+            "Oak Brook",
+            "Illinois"
+        ],
+        "apply_links": {
+            "official": "https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Front-End--Intern-Conversion-_JR29338",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778210293
+    },
+    {
+        "_id": "6897ca616d8e94bf8507e59e",
+        "company": "Chamberlain Group",
+        "company_url": "",
+        "title": "Software Engineer 1, Middleware (Intern Conversion)",
+        "locations": [
+            "Oak Brook",
+            "Illinois"
+        ],
+        "apply_links": {
+            "official": "https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR29324",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778209528
+    },
+    {
+        "_id": "6897ca606d8e94bf8507e59d",
+        "company": "Health Research, Inc.",
+        "company_url": "",
+        "title": "Hourly Research Scientist (Internship)",
+        "locations": [
+            "Albany",
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://healthresearch.wd1.myworkdayjobs.com/en-US/HRI_Careers/job/Albany-NY/Hourly-Research-Scientist--Internship-_JR-0001741",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778208774
+    },
+    {
+        "_id": "6897ca5f6d8e94bf8507e59c",
+        "company": "Microsoft",
+        "company_url": "",
+        "title": "Product Management: Internship Opportunities",
+        "locations": [
+            "Redmond",
+            "Washington"
+        ],
+        "apply_links": {
+            "official": "https://jobs.careers.microsoft.com/global/en/job/1858454/",
+            "simplify": ""
+        },
+        "posted_days_ago": 1,
+        "timestamp": 1754778207998
+    },
+    {
         "_id": "689753e4d90e409fe79e6a61",
         "company": "Belvedere Trading",
         "company_url": "https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company",
@@ -2204,111 +2315,5 @@
         },
         "posted_days_ago": 0,
         "timestamp": 1754379279554
-    },
-    {
-        "_id": "6891b40e9004193f1967846a",
-        "company": "SimIS",
-        "company_url": "",
-        "title": "Junior Software Developer - Modeling & Simulation",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "apply_links": {
-            "official": "https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754379278823
-    },
-    {
-        "_id": "6891b3719004193f19678469",
-        "company": "EPIC",
-        "company_url": "",
-        "title": "Student Associate - Software Engineer",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "apply_links": {
-            "official": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754379121136
-    },
-    {
-        "_id": "6891b3709004193f19678468",
-        "company": "Capital One",
-        "company_url": "https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company",
-        "title": "Cyber Security Internship Program",
-        "locations": [
-            "Mclean, VA",
-            "Plano, TX"
-        ],
-        "apply_links": {
-            "official": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1?utm_source=Simplify&ref=Simplify",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754379120421
-    },
-    {
-        "_id": "689124a676bdd8849345fc07",
-        "company": "DV Trading",
-        "company_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005?utm_source=ouckah",
-        "title": "Trading Intern, DV Commodities",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342566996
-    },
-    {
-        "_id": "689124a576bdd8849345fc06",
-        "company": "IMC",
-        "company_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580809101?utm_source=Simplify&ref=Simplify&utm_source=ouckah",
-        "title": "Hardware Engineer Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "apply_links": {
-            "official": "https://job-boards.eu.greenhouse.io/imc/jobs/4580809101?utm_source=Simplify&ref=Simplify&utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342565659
-    },
-    {
-        "_id": "689124a476bdd8849345fc05",
-        "company": "Talos",
-        "company_url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891?utm_source=ouckah",
-        "title": "Software Engineer Intern, Front-End, PMS",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342564890
-    },
-    {
-        "_id": "689124a476bdd8849345fc04",
-        "company": "Talos",
-        "company_url": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b?utm_source=ouckah",
-        "title": "Software Engineer Intern, Backend, PMS",
-        "locations": [
-            "New York, NY"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b?utm_source=ouckah",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754342564253
     }
 ]
