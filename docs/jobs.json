@@ -1,5 +1,390 @@
 [
     {
+        "_id": "68af3b6a37e719c418cfbfdf",
+        "company": "Intact",
+        "company_url": "https://intactfc.com/",
+        "title": "Data Scientist I- 4 Month Co-op/Internship - Winter 2026",
+        "locations": [
+            "Vancouver",
+            "British Columbia, CAN"
+        ],
+        "apply_links": {
+            "official": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/Data-Scientist-I--4-Month-Co-op-Internship--Winter-2026-_R148040-1",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1756314474036
+    },
+    {
+        "_id": "68af3b6937e719c418cfbfde",
+        "company": "Crowe",
+        "company_url": "https://crowe.com",
+        "title": "AI Functional Intern",
+        "locations": [
+            "Chicago",
+            "IL USA"
+        ],
+        "apply_links": {
+            "official": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-50098",
+            "simplify": ""
+        },
+        "posted_days_ago": 2,
+        "timestamp": 1756314473731
+    },
+    {
+        "_id": "68af3b6937e719c418cfbfdd",
+        "company": "SharkNinja",
+        "company_url": "http://www.sharkninja.com",
+        "title": "Spring 2026: Control Systems & Algorithm Engineering Co-op - January through June",
+        "locations": [
+            "Needham",
+            "MA, United States"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4592267006",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756314473340
+    },
+    {
+        "_id": "68af3b6937e719c418cfbfdc",
+        "company": "Cognitiv",
+        "company_url": "https://cognitiv.ai",
+        "title": "ML Research Scientist Intern - Fall 2025",
+        "locations": [
+            "San Mateo",
+            "CA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.lever.co/cognitiv/51ee5c64-c5dc-41e6-a2e6-4a16ed56c945/apply",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756314473017
+    },
+    {
+        "_id": "68af3b6837e719c418cfbfdb",
+        "company": "Analog Devices",
+        "company_url": "https://www.analog.com",
+        "title": "Algorithm Engineer Intern",
+        "locations": [
+            "US",
+            "MA, Wilmington"
+        ],
+        "apply_links": {
+            "official": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756314472571
+    },
+    {
+        "_id": "68af3b6837e719c418cfbfda",
+        "company": "Analog Devices",
+        "company_url": "https://www.analog.com",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "US",
+            "MA, Boston"
+        ],
+        "apply_links": {
+            "official": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756314472113
+    },
+    {
+        "_id": "68af3b6737e719c418cfbfd9",
+        "company": "Analog Devices",
+        "company_url": "https://www.analog.com",
+        "title": "Machine Learning Intern - PhD",
+        "locations": [
+            "US",
+            "MA, Boston"
+        ],
+        "apply_links": {
+            "official": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756314471731
+    },
+    {
+        "_id": "68aea58abacdeefebd339e26",
+        "company": "Spectrum",
+        "company_url": "",
+        "title": "Associate Dev Ops Engineer Intern",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "apply_links": {
+            "official": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276106858
+    },
+    {
+        "_id": "68aea58abacdeefebd339e25",
+        "company": "Spectrum",
+        "company_url": "",
+        "title": "Associate Dev Ops Engineer Intern",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "apply_links": {
+            "official": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276106460
+    },
+    {
+        "_id": "68aea58abacdeefebd339e24",
+        "company": "Spectrum",
+        "company_url": "",
+        "title": "Associate Software Developer Intern",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "apply_links": {
+            "official": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276106153
+    },
+    {
+        "_id": "68aea589bacdeefebd339e23",
+        "company": "The Hanover",
+        "company_url": "",
+        "title": "Associate Solutions Developer Intern",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "apply_links": {
+            "official": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276105813
+    },
+    {
+        "_id": "68aea589bacdeefebd339e22",
+        "company": "Vertiv",
+        "company_url": "",
+        "title": "Firmware Engineering Intern",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "apply_links": {
+            "official": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276105525
+    },
+    {
+        "_id": "68aea589bacdeefebd339e21",
+        "company": "Vertiv",
+        "company_url": "",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "apply_links": {
+            "official": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276105194
+    },
+    {
+        "_id": "68aea588bacdeefebd339e20",
+        "company": "Vertiv",
+        "company_url": "",
+        "title": "Design Engineering Intern",
+        "locations": [
+            "Delaware, OH",
+            "Fort Lauderdale, FL",
+            "Huntsville, AL"
+        ],
+        "apply_links": {
+            "official": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258307?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276104907
+    },
+    {
+        "_id": "68aea588bacdeefebd339e1f",
+        "company": "Zebra",
+        "company_url": "",
+        "title": "Software Engineering Intern, Handheld Mobile Computer",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "apply_links": {
+            "official": "https://careers.zebra.com/careers/job/343627851934?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276104625
+    },
+    {
+        "_id": "68aea588bacdeefebd339e1e",
+        "company": "Zebra",
+        "company_url": "",
+        "title": "AVS Mobile Software Engineer Intern",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "apply_links": {
+            "official": "https://careers.zebra.com/careers/job/343627780597?utm_source=github-vansh-ouckah",
+            "simplify": ""
+        },
+        "posted_days_ago": 0,
+        "timestamp": 1756276104295
+    },
+    {
+        "_id": "68aea4f2bacdeefebd339e1d",
+        "company": "Genies",
+        "company_url": "https://genies.com",
+        "title": "ML Engineering Intern - 2025 Fall Image Gen&Edit",
+        "locations": [
+            "Los Angeles, California, United States",
+            "San Francisco, California, United States"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/genies/jobs/6689982003",
+            "simplify": ""
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1756275954546
+    },
+    {
+        "_id": "68aea4f2bacdeefebd339e1c",
+        "company": "GEICO",
+        "company_url": "https://www.geico.com",
+        "title": "Technology Development Program - AI Engineer Development track - TDP-AI--Current Interns Only",
+        "locations": [
+            "Chevy Chase, MD"
+        ],
+        "apply_links": {
+            "official": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---AI-Engineer-Development-track--TDP-AI---Current-Interns-Only_R0059606",
+            "simplify": ""
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1756275954243
+    },
+    {
+        "_id": "68aea4f1bacdeefebd339e1b",
+        "company": "Engineers Gate",
+        "company_url": "http://www.eglp.com",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "New York City"
+        ],
+        "apply_links": {
+            "official": "https://job-boards.greenhouse.io/engineersgate/jobs/7182973",
+            "simplify": ""
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1756275953882
+    },
+    {
+        "_id": "68aea4f1bacdeefebd339e1a",
+        "company": "CCC Intelligent Solutions",
+        "company_url": "https://www.cccis.com/",
+        "title": "AI Enablement Intern",
+        "locations": [
+            "Chicago Green St , IL"
+        ],
+        "apply_links": {
+            "official": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014149",
+            "simplify": ""
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1756275953594
+    },
+    {
+        "_id": "68aea4f1bacdeefebd339e19",
+        "company": "CCC Intelligent Solutions",
+        "company_url": "https://www.cccis.com/",
+        "title": "Data Science & MLOps Internship - Fall 2025",
+        "locations": [
+            "Chicago Green St , IL"
+        ],
+        "apply_links": {
+            "official": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Data-Science---MLOps-Internship---Fall-2025_0014143",
+            "simplify": ""
+        },
+        "posted_days_ago": 4,
+        "timestamp": 1756275953153
+    },
+    {
+        "_id": "68aea4f0bacdeefebd339e18",
+        "company": "Covestro",
+        "company_url": "https://www.covestro.com",
+        "title": "AI Engineer Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "apply_links": {
+            "official": "https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pittsburgh-PA/AI-Engineer-Intern_JR-2025-01861",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1756275952817
+    },
+    {
+        "_id": "68aea4f0bacdeefebd339e17",
+        "company": "Covestro",
+        "company_url": "https://www.covestro.com",
+        "title": "Data Analyst Intern - Newark",
+        "locations": [
+            "Newark, OH"
+        ],
+        "apply_links": {
+            "official": "https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Newark-OH/Data-Analyst-Intern--Newark_JR-2025-01839",
+            "simplify": ""
+        },
+        "posted_days_ago": 3,
+        "timestamp": 1756275952438
+    },
+    {
+        "_id": "68aea469bacdeefebd339e16",
+        "company": "Barclays",
+        "company_url": "",
+        "title": "Credit Research Analyst Graduate Program 2026 New York",
+        "locations": [
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Credit-Research-Analyst-Graduate-Program-2026-New-York_JR-0000060396",
+            "simplify": ""
+        },
+        "posted_days_ago": 16,
+        "timestamp": 1756275817822
+    },
+    {
+        "_id": "68aea469bacdeefebd339e15",
+        "company": "Barclays",
+        "company_url": "",
+        "title": "Equity Research Analyst Graduate Program 2026 New York",
+        "locations": [
+            "New York"
+        ],
+        "apply_links": {
+            "official": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Equity-Research-Analyst-Graduate-Program-2026-New-York_JR-0000060398",
+            "simplify": ""
+        },
+        "posted_days_ago": 16,
+        "timestamp": 1756275817514
+    },
+    {
         "_id": "6899e9a027f860ebc546129a",
         "company": "Wells Fargo",
         "company_url": "https://www.wellsfargo.com/",
@@ -1927,399 +2312,5 @@
         },
         "posted_days_ago": 1,
         "timestamp": 1754553833227
-    },
-    {
-        "_id": "6893ae2005b9976f73e4bf0a",
-        "company": "Bask Health",
-        "company_url": "https://apply.workable.com/j/8DBEA78523/apply",
-        "title": "User Experience (UX) Engineer (Intern)(New York)",
-        "locations": [
-            "Remote"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/8DBEA78523/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553832528
-    },
-    {
-        "_id": "6893ae1f05b9976f73e4bf09",
-        "company": "Lumentum",
-        "company_url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer-Co-op-Intern_2025741-1",
-        "title": "Process Automation Software Engineer Co-op/Intern",
-        "locations": [
-            "Ottawa",
-            "Ontario"
-        ],
-        "apply_links": {
-            "official": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer-Co-op-Intern_2025741-1",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553831718
-    },
-    {
-        "_id": "6893ae1f05b9976f73e4bf08",
-        "company": "Al Warren Oil Company",
-        "company_url": "https://apply.workable.com/j/741DE22AEA/apply",
-        "title": "Software Developer - Fall Internship 2025",
-        "locations": [
-            "Bensenville",
-            "Illinois"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/741DE22AEA/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553831040
-    },
-    {
-        "_id": "6893ae1d05b9976f73e4bf07",
-        "company": "Pratt & Whitney Canada",
-        "company_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Returning-Intern---Raytheon-Mechanical-Analysis-and-Test-Engineer---Onsite_01784439",
-        "title": "2026 Returning Intern - Raytheon Mechanical Analysis and Test Engineer - Onsite",
-        "locations": [
-            "Tucson",
-            "Arizona"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Returning-Intern---Raytheon-Mechanical-Analysis-and-Test-Engineer---Onsite_01784439",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553829869
-    },
-    {
-        "_id": "6893ae1c05b9976f73e4bf06",
-        "company": "HNTB",
-        "company_url": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Kansas-City-MO/Returning-Design-Build-New-Grad-Engineer-I--Summer-2026--For-Current-Former-HNTB-Interns-Only-_R-26885-2",
-        "title": "Returning Design-Build New Grad Engineer I - Summer 2026 (For Current/Former HNTB Interns Only)",
-        "locations": [
-            "Kansas City",
-            "Missouri"
-        ],
-        "apply_links": {
-            "official": "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/Kansas-City-MO/Returning-Design-Build-New-Grad-Engineer-I--Summer-2026--For-Current-Former-HNTB-Interns-Only-_R-26885-2",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553828826
-    },
-    {
-        "_id": "6893ae1b05b9976f73e4bf05",
-        "company": "Copart",
-        "company_url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR104215",
-        "title": "Technology Product Analyst Intern",
-        "locations": [
-            "Texas"
-        ],
-        "apply_links": {
-            "official": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR104215",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553827504
-    },
-    {
-        "_id": "6893ae1a05b9976f73e4bf04",
-        "company": "Tower Research Capital",
-        "company_url": "https://www.tower-research.com/open-positions/?gh_jid=6590360",
-        "title": "D\u00e9veloppeur en Apprentissage Automatique / Machine Learning Developer",
-        "locations": [
-            "Montr\u00e9al",
-            "Quebec"
-        ],
-        "apply_links": {
-            "official": "https://www.tower-research.com/open-positions/?gh_jid=6590360",
-            "simplify": ""
-        },
-        "posted_days_ago": 1,
-        "timestamp": 1754553826022
-    },
-    {
-        "_id": "689231cd9004193f1967848a",
-        "company": "ByteDance",
-        "company_url": "https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company",
-        "title": "Software Engineer Intern - Payment Architecture - Global Payment",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "apply_links": {
-            "official": "https://jobs.bytedance.com/en/position/7533369790536141063/detail?utm_source=Simplify&ref=Simplify",
-            "simplify": "https://simplify.jobs/p/174a07c8-fbf8-4230-a424-5d346a3ca5ba?utm_source=GHList"
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754456469663
-    },
-    {
-        "_id": "68922e979004193f19678489",
-        "company": "Talos",
-        "company_url": "",
-        "title": "Software Engineer Intern, Front-End, PMS",
-        "locations": [
-            "New York City",
-            "New York"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/talos-trading/2db01769-8f00-4652-b790-b7cff80bc891",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455647081
-    },
-    {
-        "_id": "68922e969004193f19678488",
-        "company": "TikTok",
-        "company_url": "",
-        "title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics) - 2026 Summer (BS/MS)",
-        "locations": [
-            "San Jose",
-            "California"
-        ],
-        "apply_links": {
-            "official": "https://lifeattiktok.com/search/7533029779479791890",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455646398
-    },
-    {
-        "_id": "68922e959004193f19678487",
-        "company": "Talos",
-        "company_url": "",
-        "title": "Software Engineer Intern, Backend, PMS",
-        "locations": [
-            "New York City",
-            "New York"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/talos-trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455645513
-    },
-    {
-        "_id": "68922e949004193f19678486",
-        "company": "Talos",
-        "company_url": "",
-        "title": "Software Engineer Intern, Backend, Dealer",
-        "locations": [
-            "New York City",
-            "New York"
-        ],
-        "apply_links": {
-            "official": "https://jobs.ashbyhq.com/talos-trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455644514
-    },
-    {
-        "_id": "68922e939004193f19678485",
-        "company": "Environmental Defense Fund",
-        "company_url": "",
-        "title": "Data Analyst Intern, Methane Science",
-        "locations": [
-            "Remote",
-            ""
-        ],
-        "apply_links": {
-            "official": "https://osv-edf.wd5.myworkdayjobs.com/en-US/EDF_External_Careers/job/Remote---US-Home/Data-Analyst-Intern--Methane-Science_REQ-002029",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455643169
-    },
-    {
-        "_id": "68922e919004193f19678484",
-        "company": "Pratt & Whitney Canada",
-        "company_url": "",
-        "title": "2026 Return Intern - Raytheon Software Engineer Intern (On-site)",
-        "locations": [
-            "Fort Wayne",
-            "Indiana"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Return-Intern---Raytheon-Software-Engineer-Intern--On-site-_01784206",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455641954
-    },
-    {
-        "_id": "68922e919004193f19678483",
-        "company": "ConnectPrep",
-        "company_url": "",
-        "title": "Data Analyst Internship",
-        "locations": [
-            "Westport",
-            "Connecticut"
-        ],
-        "apply_links": {
-            "official": "https://apply.workable.com/j/8E95589DFE/apply",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754455641319
-    },
-    {
-        "_id": "68922b7c9004193f19678482",
-        "company": "KBR, Inc.",
-        "company_url": "",
-        "title": "Junior Sustainment Test Engineer",
-        "locations": [
-            "Colorado Springs",
-            "Colorado"
-        ],
-        "apply_links": {
-            "official": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Sustainment-Test-Engineer_R2110189",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454852305
-    },
-    {
-        "_id": "68922b7b9004193f19678481",
-        "company": "RTX",
-        "company_url": "",
-        "title": "Fixed Wing Displays Systems Engineer I (Onsite)",
-        "locations": [
-            "Cedar Rapids",
-            "Iowa"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Systems-Engineer-I--Onsite-_01781132",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454851474
-    },
-    {
-        "_id": "68922b7a9004193f19678480",
-        "company": "Brown & Brown Insurance",
-        "company_url": "",
-        "title": "Risk Analyst",
-        "locations": [
-            "Atlanta",
-            "Georgia"
-        ],
-        "apply_links": {
-            "official": "https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analyst_R25_0000002734",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454850792
-    },
-    {
-        "_id": "68922b799004193f1967847f",
-        "company": "LexisNexis Risk Solutions",
-        "company_url": "",
-        "title": "Software Engineer II",
-        "locations": [
-            "Illinois"
-        ],
-        "apply_links": {
-            "official": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Illinois/Software-Engineer-II_R99152",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454849981
-    },
-    {
-        "_id": "68922b799004193f1967847e",
-        "company": "Pratt & Whitney Canada",
-        "company_url": "",
-        "title": "2026 Conversion - Raytheon Software Engineer I (On-site)",
-        "locations": [
-            "Fort Wayne",
-            "Indiana"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Conversion---Raytheon-Software-Engineer-I--On-site-_01784205",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454849281
-    },
-    {
-        "_id": "68922b789004193f1967847d",
-        "company": "Pratt & Whitney Canada",
-        "company_url": "",
-        "title": "Systems Engineer I (Onsite)",
-        "locations": [
-            "Cedar Rapids",
-            "Iowa"
-        ],
-        "apply_links": {
-            "official": "https://globalhr.wd5.myworkdayjobs.com/en-US/private_posting_no_tmp/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Systems-Engineer-I--Onsite-_01783855",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454848582
-    },
-    {
-        "_id": "68922b779004193f1967847c",
-        "company": "CACI International Inc",
-        "company_url": "",
-        "title": "Junior-Level Test Automation Engineer (GitLab)",
-        "locations": [
-            "Maryland"
-        ],
-        "apply_links": {
-            "official": "https://caci.wd1.myworkdayjobs.com/en-US/referral/job/US-MD-Fort-Detrick/Junior-Level-Test-Automation-Engineer--GitLab-_315559",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754454847838
-    },
-    {
-        "_id": "6892025c9004193f1967847b",
-        "company": "Deluxe",
-        "company_url": "https://www.deluxe.com",
-        "title": "AI Strategy & Innovation Intern",
-        "locations": [
-            "US",
-            "CA",
-            "Burbank"
-        ],
-        "apply_links": {
-            "official": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/AI-Strategy---Innovation-Intern_R0015505",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754444324351
-    },
-    {
-        "_id": "6892025b9004193f1967847a",
-        "company": "Altruist",
-        "company_url": "https://altruist.com",
-        "title": "Quantitative Engineering Intern - Summer 2026",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "apply_links": {
-            "official": "https://altruist.com/join-altruist/5601805004?gh_jid=5601805004",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754444323680
-    },
-    {
-        "_id": "6892025a9004193f19678479",
-        "company": "Altruist",
-        "company_url": "https://altruist.com",
-        "title": "Data Science Intern - Summer 2026",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "apply_links": {
-            "official": "https://altruist.com/join-altruist/5601854004?gh_jid=5601854004",
-            "simplify": ""
-        },
-        "posted_days_ago": 0,
-        "timestamp": 1754444322543
     }
 ]
